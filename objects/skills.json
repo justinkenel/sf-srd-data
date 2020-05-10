@@ -1,0 +1,271 @@
+[
+  {
+    "name": "Acrobatics",
+    "raw_name": "Acrobatics (Dex; Armor Check Penalty)",
+    "trained_only": false,
+    "armor_check_penalty": true,
+    "raw_description": [
+      "You can keep your balance while traversing narrow or treacherous surfaces, escape from restraints, and tumble to avoid attacks. You also use Acrobatics to determine the success of difficult maneuvers while flying."
+    ],
+    "modifiers": [
+      "dex"
+    ],
+    "id": "skills.acrobatics"
+  },
+  {
+    "name": "Athletics",
+    "raw_name": "Athletics (Str; Armor Check Penalty)",
+    "trained_only": false,
+    "armor_check_penalty": true,
+    "raw_description": [
+      "You can scale vertical surfaces, leap over obstacles, and swim."
+    ],
+    "modifiers": [
+      "str"
+    ],
+    "id": "skills.athletics"
+  },
+  {
+    "name": "Bluff",
+    "raw_name": "Bluff (Cha)",
+    "trained_only": false,
+    "armor_check_penalty": false,
+    "raw_description": [
+      "You can use words and actions to create distractions, misdirect your opponents, tell convincing lies, and pass along secret messages."
+    ],
+    "modifiers": [
+      "cha"
+    ],
+    "id": "skills.bluff"
+  },
+  {
+    "name": "Computers",
+    "raw_name": "Computers (Int; Trained Only)",
+    "trained_only": true,
+    "armor_check_penalty": false,
+    "raw_description": [
+      "You can operate, manipulate, and hack into computer systems. If you don’t have physical access to a computer system’s user interface, you must use a hacking kit to access and manipulate the system. Details of computers themselves begin on page 213.",
+      "Computers are set up to give one or more authorized users “root access,” allowing them to access any information or function of the computer as a standard action, with no need for a Computers check. Firewalls can block off specific sections of a computer and grant different users root access to those sections.",
+      "The base DC for many of the tasks of the Computers skill is equal to 13 + (4 × the computer’s tier). These DCs may be adjusted by the GM to reflect other circumstances."
+    ],
+    "modifiers": [
+      "int"
+    ],
+    "id": "skills.computers"
+  },
+  {
+    "name": "Culture",
+    "raw_name": "Culture (Int; Trained Only)",
+    "trained_only": true,
+    "armor_check_penalty": false,
+    "raw_description": [
+      "You are a student of the vast number of known cultures in the galaxy, and you have a deep and rich understanding of the undercurrents of cultures and language in general. Each time you take a rank in Culture, you learn to speak and read a new language. See page 41 for a list of common languages."
+    ],
+    "modifiers": [
+      "int"
+    ],
+    "id": "skills.culture"
+  },
+  {
+    "name": "Diplomacy",
+    "raw_name": "Diplomacy (Cha)",
+    "trained_only": false,
+    "armor_check_penalty": false,
+    "raw_description": [
+      "You can persuade others to be friendly toward you, resolve conflicts and differences, and learn common knowledge and rumors floating around a settlement."
+    ],
+    "modifiers": [
+      "cha"
+    ],
+    "id": "skills.diplomacy"
+  },
+  {
+    "name": "Disguise",
+    "raw_name": "Disguise (Cha)",
+    "trained_only": false,
+    "armor_check_penalty": false,
+    "raw_description": [
+      "You are able to change your appearance to blend in and deceive others, whether to infiltrate"
+    ],
+    "modifiers": [
+      "cha"
+    ],
+    "id": "skills.disguise"
+  },
+  {
+    "name": "Engineering",
+    "raw_name": "Engineering (Int; Trained Only)",
+    "trained_only": true,
+    "armor_check_penalty": false,
+    "raw_description": [
+      "You can identify, build, repair, or disable technological devices; assess the stability of structures and machinery; and properly arm and disarm explosives. If you don’t have an engineering kit when attempting an Engineering check, you take a –2 penalty to the check."
+    ],
+    "modifiers": [
+      "int"
+    ],
+    "id": "skills.engineering"
+  },
+  {
+    "name": "Intimidate",
+    "raw_name": "Intimidate (Cha)",
+    "trained_only": false,
+    "armor_check_penalty": false,
+    "raw_description": [
+      "You can rattle your foes or bully them to do what you want with verbal threats or displays of prowess."
+    ],
+    "modifiers": [
+      "cha"
+    ],
+    "id": "skills.intimidate"
+  },
+  {
+    "name": "Life Science",
+    "raw_name": "Life Science (Int; Trained Only)",
+    "trained_only": true,
+    "armor_check_penalty": false,
+    "raw_description": [
+      "You are educated in the scientific study of living things, from the smallest organisms to the largest biological systems."
+    ],
+    "modifiers": [
+      "int"
+    ],
+    "id": "skills.life_science"
+  },
+  {
+    "name": "Medicine",
+    "raw_name": "Medicine (Int; Trained Only)",
+    "trained_only": true,
+    "armor_check_penalty": false,
+    "raw_description": [
+      "You have knowledge of the biology of many species and can treat a number of different types of wounds and ailments. The DCs of most Medicine tasks are based on the type of equipment used (see Chapter 7 for that information)."
+    ],
+    "modifiers": [
+      "int"
+    ],
+    "id": "skills.medicine"
+  },
+  {
+    "name": "Mysticism",
+    "raw_name": "Mysticism (Wis; Trained Only)",
+    "trained_only": true,
+    "armor_check_penalty": false,
+    "raw_description": [
+      "You are educated in the fields of magic, religion, the planes, and spellcasting, and so can identify magic items and spells and make magic items yourself."
+    ],
+    "modifiers": [
+      "wis"
+    ],
+    "id": "skills.mysticism"
+  },
+  {
+    "name": "Perception",
+    "raw_name": "Perception (Wis)",
+    "trained_only": false,
+    "armor_check_penalty": false,
+    "raw_description": [
+      "You can use all of your senses (hearing, taste, touch, sight, and smell) to notice danger, pick out fine details, and search for hidden objects or creatures."
+    ],
+    "modifiers": [
+      "wis"
+    ],
+    "id": "skills.perception"
+  },
+  {
+    "name": "Physical Science",
+    "raw_name": "Physical Science (Int; Trained Only)",
+    "trained_only": true,
+    "armor_check_penalty": false,
+    "raw_description": [
+      "You are educated in the scientific study of non-living systems, from the tiniest atoms to the largest celestial bodies."
+    ],
+    "modifiers": [
+      "int"
+    ],
+    "id": "skills.physical_science"
+  },
+  {
+    "name": "Piloting",
+    "raw_name": "Piloting (Dex)",
+    "trained_only": false,
+    "armor_check_penalty": false,
+    "raw_description": [
+      "You know how to drive vehicles, pilot starships, and navigate."
+    ],
+    "modifiers": [
+      "dex"
+    ],
+    "id": "skills.piloting"
+  },
+  {
+    "name": "Profession",
+    "raw_name": "Profession (Cha, Int, or Wis; Trained Only)",
+    "trained_only": true,
+    "armor_check_penalty": false,
+    "raw_description": [
+      "You are skilled in a specific job, specialty, or creative art. You know how to use the tools of your trade, how to perform the profession’s daily tasks, how to supervise helpers, and how to handle common problems.",
+      "Profession is actually a number of separate skills. You could have several Profession skills, each with its own ranks. While skills like Culture, Life Science, Mysticism, and Physical Science represent highly specialized fields of study, a Profession skill represents an aptitude in a vocation requiring a broader range of less specific knowledge. When you put ranks in a Profession skill, you must choose the ability score keyed to that skill: Charisma, Intelligence, or Wisdom. Common Charisma-based Profession skills include actor, artist, comedian, con artist, courtesan, dancer, musician, orator, poet, politician, video personality, and writer. Common Intelligence-based Profession skills include accountant, archaeologist, architect, corporate professional, electrician, lab technician, lawyer, mathematician, philosopher, professor, psychologist, and vidgamer. Common Wisdom-based Profession skills include bounty hunter, cook, counselor, dockworker, farmer, gambler, general contractor, herbalist, maintenance worker, manager, mercenary, merchant, miner, and smuggler.",
+      "A Profession skill should not overlap with existing skills. For example, if you want to play a scientist, you should put ranks into Life Science or Physical Science rather than create a Profession (scientist) skill. The GM is the final arbiter of what is a good choice for a Profession skill and what ability score a given Profession skill is keyed to.",
+      "Different professions are considered different skills for the purpose of how many ranks you can have each level. For example, a 4th-level character could have 4 ranks in both Profession (dockworker) and Profession (vidgamer)."
+    ],
+    "modifiers": [
+      "cha",
+      "wis",
+      "int"
+    ],
+    "id": "skills.profession"
+  },
+  {
+    "name": "Sense Motive",
+    "raw_name": "Sense Motive (Wis)",
+    "trained_only": false,
+    "armor_check_penalty": false,
+    "raw_description": [
+      "You can detect falsehoods and gain glimpses of the true intentions of creatures with which you interact."
+    ],
+    "modifiers": [
+      "wis"
+    ],
+    "id": "skills.sense_motive"
+  },
+  {
+    "name": "Sleight of Hand",
+    "raw_name": "Sleight of Hand (Dex; Armor Check Penalty; Trained Only)",
+    "trained_only": true,
+    "armor_check_penalty": true,
+    "raw_description": [
+      "You can hide small objects, pick pockets, and accomplish other feats of manual dexterity without being noticed."
+    ],
+    "modifiers": [
+      "dex"
+    ],
+    "id": "skills.sleight_of_hand"
+  },
+  {
+    "name": "Stealth",
+    "raw_name": "Stealth (Dex; Armor Check Penalty)",
+    "trained_only": false,
+    "armor_check_penalty": true,
+    "raw_description": [
+      "You can stay hidden and move silently to avoid detection, allowing you to sneak past foes or strike from an unseen position."
+    ],
+    "modifiers": [
+      "dex"
+    ],
+    "id": "skills.stealth"
+  },
+  {
+    "name": "Survival",
+    "raw_name": "Survival (Wis)",
+    "trained_only": false,
+    "armor_check_penalty": false,
+    "raw_description": [
+      "You can survive in and make your way safely through almost any kind of wilderness, follow trails and tracks, deal with wild animals, and ride tamed ones.",
+      "Use the following base DCs for many of the listed tasks of the Survival skill. These DCs may be adjusted by the GM to reflect other circumstances.",
+      "TaskDC Endure severe weather15 Handle an animal10 + 1-1/2 × CR of animal Live off the land10 Orienteering15 Predict weather15 Rear a wild animal15 + 1-1/2 × CR of animal"
+    ],
+    "modifiers": [
+      "wis"
+    ],
+    "id": "skills.survival"
+  }
+]

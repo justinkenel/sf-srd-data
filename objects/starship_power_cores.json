@@ -1,0 +1,236 @@
+[
+  {
+    "name": "micron light",
+    "sizes": [
+      "t"
+    ],
+    "pcu": "50",
+    "cost": "4"
+  },
+  {
+    "name": "micron heavy",
+    "sizes": [
+      "t"
+    ],
+    "pcu": "70",
+    "cost": "6"
+  },
+  {
+    "name": "micron ultra",
+    "sizes": [
+      "t"
+    ],
+    "pcu": "80",
+    "cost": "8"
+  },
+  {
+    "name": "arcus light",
+    "sizes": [
+      "t",
+      "s"
+    ],
+    "pcu": "75",
+    "cost": "7"
+  },
+  {
+    "name": "pulse brown",
+    "sizes": [
+      "t",
+      "s"
+    ],
+    "pcu": "90",
+    "cost": "9"
+  },
+  {
+    "name": "pulse black",
+    "sizes": [
+      "t",
+      "s"
+    ],
+    "pcu": "120",
+    "cost": "12"
+  },
+  {
+    "name": "pulse white",
+    "sizes": [
+      "t",
+      "s"
+    ],
+    "pcu": "140",
+    "cost": "14"
+  },
+  {
+    "name": "pulse gray",
+    "sizes": [
+      "t",
+      "s",
+      "m"
+    ],
+    "pcu": "100",
+    "cost": "10"
+  },
+  {
+    "name": "arcus heavy",
+    "sizes": [
+      "t",
+      "s",
+      "m"
+    ],
+    "pcu": "130",
+    "cost": "13"
+  },
+  {
+    "name": "pulse green",
+    "sizes": [
+      "t",
+      "s",
+      "m"
+    ],
+    "pcu": "150",
+    "cost": "15"
+  },
+  {
+    "name": "pulse red",
+    "sizes": [
+      "t",
+      "s",
+      "m"
+    ],
+    "pcu": "175",
+    "cost": "17"
+  },
+  {
+    "name": "pulse blue",
+    "sizes": [
+      "t",
+      "s",
+      "m"
+    ],
+    "pcu": "200",
+    "cost": "20"
+  },
+  {
+    "name": "titan light",
+    "sizes": [
+      "sc"
+    ],
+    "pcu": "700",
+    "cost": "50"
+  },
+  {
+    "name": "titan heavy",
+    "sizes": [
+      "sc"
+    ],
+    "pcu": "950",
+    "cost": "60"
+  },
+  {
+    "name": "titan ultra",
+    "sizes": [
+      "sc"
+    ],
+    "pcu": "1200",
+    "cost": "70"
+  },
+  {
+    "name": "arcus ultra",
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "pcu": "150",
+    "cost": "15"
+  },
+  {
+    "name": "arcus maximum",
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "pcu": "200",
+    "cost": "20"
+  },
+  {
+    "name": "pulse orange",
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "pcu": "250",
+    "cost": "25"
+  },
+  {
+    "name": "pulse prismatic",
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "pcu": "300",
+    "cost": "30"
+  },
+  {
+    "name": "nova light",
+    "sizes": [
+      "m",
+      "l",
+      "h"
+    ],
+    "pcu": "150",
+    "cost": "15"
+  },
+  {
+    "name": "nova heavy",
+    "sizes": [
+      "m",
+      "l",
+      "h"
+    ],
+    "pcu": "200",
+    "cost": "20"
+  },
+  {
+    "name": "nova ultra",
+    "sizes": [
+      "m",
+      "l",
+      "h"
+    ],
+    "pcu": "300",
+    "cost": "30"
+  },
+  {
+    "name": "gateway light",
+    "sizes": [
+      "l",
+      "h",
+      "g"
+    ],
+    "pcu": "300",
+    "cost": "30"
+  },
+  {
+    "name": "gateway heavy",
+    "sizes": [
+      "l",
+      "h",
+      "g"
+    ],
+    "pcu": "400",
+    "cost": "40"
+  },
+  {
+    "name": "gateway ultra",
+    "sizes": [
+      "h",
+      "g",
+      "c"
+    ],
+    "pcu": "500",
+    "cost": "50"
+  }
+]

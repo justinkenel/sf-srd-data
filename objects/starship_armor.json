@@ -1,0 +1,122 @@
+[
+  {
+    "name": "mk 1 armor",
+    "ac_bonus": "+1",
+    "special_raw": {
+      "text": "—"
+    },
+    "cost_multiplier": "1"
+  },
+  {
+    "name": "mk 2 armor",
+    "ac_bonus": "+2",
+    "special_raw": {
+      "text": "—"
+    },
+    "cost_multiplier": "2"
+  },
+  {
+    "name": "mk 3 armor",
+    "ac_bonus": "+3",
+    "special_raw": {
+      "text": "—"
+    },
+    "cost_multiplier": "3"
+  },
+  {
+    "name": "mk 4 armor",
+    "ac_bonus": "+4",
+    "special_raw": {
+      "text": "—"
+    },
+    "cost_multiplier": "5"
+  },
+  {
+    "name": "mk 5 armor",
+    "ac_bonus": "+5",
+    "special_raw": {
+      "text": "-1 tl"
+    },
+    "cost_multiplier": "7"
+  },
+  {
+    "name": "mk 6 armor",
+    "ac_bonus": "+6",
+    "special_raw": {
+      "text": "-1 tl"
+    },
+    "cost_multiplier": "9"
+  },
+  {
+    "name": "mk 7 armor",
+    "ac_bonus": "+7",
+    "special_raw": {
+      "text": "-1 tl"
+    },
+    "cost_multiplier": "12"
+  },
+  {
+    "name": "mk 8 armor",
+    "ac_bonus": "+8",
+    "special_raw": {
+      "text": "-1 tl"
+    },
+    "cost_multiplier": "15"
+  },
+  {
+    "name": "mk 9 armor",
+    "ac_bonus": "+9",
+    "special_raw": {
+      "text": "-2 tl, +1 turn distance"
+    },
+    "cost_multiplier": "18"
+  },
+  {
+    "name": "mk 10 armor",
+    "ac_bonus": "+10",
+    "special_raw": {
+      "text": "-2 tl, +1 turn distance"
+    },
+    "cost_multiplier": "21"
+  },
+  {
+    "name": "mk 11 armor",
+    "ac_bonus": "+11",
+    "special_raw": {
+      "text": "-2 tl, +1 turn distance"
+    },
+    "cost_multiplier": "25"
+  },
+  {
+    "name": "mk 12 armor",
+    "ac_bonus": "+12",
+    "special_raw": {
+      "text": "-3 tl, +2 turn distance"
+    },
+    "cost_multiplier": "30"
+  },
+  {
+    "name": "mk 13 armor",
+    "ac_bonus": "+13",
+    "special_raw": {
+      "text": "-3 tl, +2 turn distance"
+    },
+    "cost_multiplier": "35"
+  },
+  {
+    "name": "mk 14 armor",
+    "ac_bonus": "+14",
+    "special_raw": {
+      "text": "-3 tl, +2 turn distance"
+    },
+    "cost_multiplier": "40"
+  },
+  {
+    "name": "mk 15 armor",
+    "ac_bonus": "+15",
+    "special_raw": {
+      "text": "-4 tl, +3 turn distance"
+    },
+    "cost_multiplier": "45"
+  }
+]

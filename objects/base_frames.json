@@ -1,0 +1,671 @@
+[
+  {
+    "name": "Racer",
+    "source_raw": [
+      {
+        "text": "Starfinder Core Rulebook pg. 295",
+        "link": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook",
+        "line_break": true
+      }
+    ],
+    "size": "Tiny",
+    "maneuverability": "perfect (+2 Piloting, turn 0)",
+    "hp": {
+      "base": "20",
+      "increment": "5"
+    },
+    "dt": "—",
+    "ct": "4",
+    "mounts_raw": [
+      {
+        "text": "forward arc (1 light), aft arc (1 light)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "—",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "1",
+    "maximum_crew": "1",
+    "cost": "4"
+  },
+  {
+    "name": "Statikete",
+    "source_raw": [
+      {
+        "text": "Starfinder #19: Fate of the Fifth pg. 57",
+        "link": "https://paizo.com/products/btq01wtb?Starfinder-Adventure-Path-19-Fate-of-the-Fifth",
+        "line_break": true
+      }
+    ],
+    "size": "Tiny",
+    "maneuverability": "perfect (+2 Piloting, turn 0)",
+    "hp": {
+      "base": "25",
+      "increment": "5"
+    },
+    "dt": "—",
+    "ct": "5",
+    "mounts_raw": [
+      {
+        "text": "forward arc (1 light)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "—",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "1",
+    "maximum_crew": "1",
+    "cost": "5",
+    "special_raw": {
+      "header": "3",
+      "text": "Special Abilities",
+      "children": [
+        {
+          "text": "EMP Dispersal (Ex)",
+          "is_bold": true
+        },
+        {
+          "text": "When a starship built with a statikete frame is hit with an EMP weapon, it reduces the duration of that weapon’s effect by half, rounded down to a minimum of 0 rounds.",
+          "line_break": true
+        }
+      ]
+    }
+  },
+  {
+    "name": "Interceptor",
+    "source_raw": [
+      {
+        "text": "Starfinder Core Rulebook pg. 295",
+        "link": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook",
+        "line_break": true
+      }
+    ],
+    "size": "Tiny",
+    "maneuverability": "perfect (+2 Piloting, turn 0)",
+    "hp": {
+      "base": "30",
+      "increment": "5"
+    },
+    "dt": "—",
+    "ct": "6",
+    "mounts_raw": [
+      {
+        "text": "forward arc (2 light)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "—",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "1",
+    "maximum_crew": "1",
+    "cost": "6"
+  },
+  {
+    "name": "Shuttle",
+    "source_raw": [
+      {
+        "text": "Starfinder Core Rulebook pg. 295",
+        "link": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook",
+        "line_break": true
+      }
+    ],
+    "size": "Small",
+    "maneuverability": "perfect (+2 Piloting, turn 0)",
+    "hp": {
+      "base": "35",
+      "increment": "5"
+    },
+    "dt": "—",
+    "ct": "7",
+    "mounts_raw": [
+      {
+        "text": "forward arc (1 light)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "3 (usually cargo holds or passenger seating)",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "1",
+    "maximum_crew": "4",
+    "cost": "6"
+  },
+  {
+    "name": "Fighter",
+    "source_raw": [
+      {
+        "text": "Starfinder Core Rulebook pg. 295",
+        "link": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook",
+        "line_break": true
+      }
+    ],
+    "size": "Tiny",
+    "maneuverability": "good (+1 Piloting, turn 1)",
+    "hp": {
+      "base": "35",
+      "increment": "5"
+    },
+    "dt": "—",
+    "ct": "7",
+    "mounts_raw": [
+      {
+        "text": "forward arc (2 light [1 must be a tracking weapon]), aft arc (1 light)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "—",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "1",
+    "maximum_crew": "2",
+    "cost": "8"
+  },
+  {
+    "name": "Light Freighter",
+    "source_raw": [
+      {
+        "text": "Starfinder Core Rulebook pg. 295",
+        "link": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook",
+        "line_break": true
+      }
+    ],
+    "size": "Small",
+    "maneuverability": "good (+1 Piloting, turn 1)",
+    "hp": {
+      "base": "40",
+      "increment": "10"
+    },
+    "dt": "—",
+    "ct": "8",
+    "mounts_raw": [
+      {
+        "text": "forward arc (2 light), port arc (1 light), starboard arc (1 light)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "3",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "1",
+    "maximum_crew": "6",
+    "cost": "10"
+  },
+  {
+    "name": "Explorer",
+    "source_raw": [
+      {
+        "text": "Starfinder Core Rulebook pg. 295",
+        "link": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook",
+        "line_break": true
+      }
+    ],
+    "size": "Medium",
+    "maneuverability": "good (+1 Piloting, turn 1)",
+    "hp": {
+      "base": "55",
+      "increment": "10"
+    },
+    "dt": "—",
+    "ct": "11",
+    "mounts_raw": [
+      {
+        "text": "forward arc (1 light), port arc (1 light), starboard arc (1 light), turret (1 light)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "4",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "1",
+    "maximum_crew": "6",
+    "cost": "12"
+  },
+  {
+    "name": "Transport",
+    "source_raw": [
+      {
+        "text": "Starfinder Core Rulebook pg. 295",
+        "link": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook",
+        "line_break": true
+      }
+    ],
+    "size": "Medium",
+    "maneuverability": "average (+0 Piloting, turn 2)",
+    "hp": {
+      "base": "70",
+      "increment": "15"
+    },
+    "dt": "—",
+    "ct": "14",
+    "mounts_raw": [
+      {
+        "text": "forward arc (1 heavy, 1 light), aft arc (1 light), turret (2 light)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "5",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "1",
+    "maximum_crew": "6",
+    "cost": "15"
+  },
+  {
+    "name": "Oma",
+    "source_raw": [
+      {
+        "text": "Alien Archive pg. 89",
+        "link": "https://paizo.com/products/btpy9ujg",
+        "line_break": true
+      }
+    ],
+    "size": "Medium",
+    "maneuverability": "average (+0 Piloting, turn 2)",
+    "hp": {
+      "base": "85",
+      "increment": "15"
+    },
+    "dt": "—",
+    "ct": "17",
+    "mounts_raw": [
+      {
+        "text": "forward arc (1 heavy, 1 light), port arc (1 light), starboard arc (1 light), aft arc (1 light)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "6",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "1",
+    "maximum_crew": "6",
+    "cost": "20",
+    "special_raw": {
+      "header": "3",
+      "text": "Special Abilities",
+      "children": [
+        {
+          "text": "Drift Resistant (Ex)",
+          "is_bold": true
+        },
+        {
+          "text": "An oma’s body must be specially refitted to accommodate Drift travel; installing a Drift engine in an oma increases the price of the engine by 50%.",
+          "line_break": true
+        }
+      ]
+    }
+  },
+  {
+    "name": "Destroyer",
+    "source_raw": [
+      {
+        "text": "Starfinder Core Rulebook pg. 295",
+        "link": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook",
+        "line_break": true
+      }
+    ],
+    "size": "Large",
+    "maneuverability": "average (+0 Piloting, turn 2)",
+    "hp": {
+      "base": "150",
+      "increment": "20"
+    },
+    "dt": "—",
+    "ct": "30",
+    "mounts_raw": [
+      {
+        "text": "forward arc (2 heavy), port arc (1 light), starboard arc (1 light), aft arc (1 light), turret (1 light)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "4",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "6",
+    "maximum_crew": "20",
+    "cost": "30"
+  },
+  {
+    "name": "Heavy Freighter",
+    "source_raw": [
+      {
+        "text": "Starfinder Core Rulebook pg. 295",
+        "link": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook",
+        "line_break": true
+      }
+    ],
+    "size": "Large",
+    "maneuverability": "average (+0 Piloting, turn 2)",
+    "hp": {
+      "base": "120",
+      "increment": "20"
+    },
+    "dt": "—",
+    "ct": "24",
+    "mounts_raw": [
+      {
+        "text": "forward arc (1 heavy, 2 light), port arc (1 heavy), starboard arc (1 heavy)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "8",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "6",
+    "maximum_crew": "20",
+    "cost": "40"
+  },
+  {
+    "name": "Vermelith",
+    "source_raw": [
+      {
+        "text": "Alien Archive 2 pg. 131",
+        "link": "https://paizo.com/products/btpya20r?Starfinder-Alien-Archive-2",
+        "line_break": true
+      }
+    ],
+    "size": "Large",
+    "maneuverability": "average (+0 Piloting, turn 2)",
+    "hp": {
+      "base": "130",
+      "increment": "20"
+    },
+    "dt": "—",
+    "ct": "26",
+    "mounts_raw": [
+      {
+        "text": "forward arc (1 heavy, 1 light), port arc (1 light), starboard arc (1 light), aft arc (1 light), turret (1 light)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "7",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "6",
+    "maximum_crew": "20",
+    "cost": "45",
+    "special_raw": {
+      "header": "3",
+      "text": "Special Abilities",
+      "children": [
+        {
+          "text": "Extreme Resistance (Ex)",
+          "is_bold": true
+        },
+        {
+          "text": "An EMP weapon has half its normal\nduration against a vessel built using this frame. The\nvessel has a +1 bonus to its AC against direct fire weapons\nthat use gravity and a +1 bonus to Piloting checks the\npilot attempts due to gravity, such as escaping a tractor\nbeam. In addition, a biomechanical ship built from this\nframe treats its radiation exposure as 1 level lower when\ndetermining critical damage effects due to radiation.",
+          "line_break": true
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bulk Freighter",
+    "source_raw": [
+      {
+        "text": "Starfinder Core Rulebook pg. 295",
+        "link": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook",
+        "line_break": true
+      }
+    ],
+    "size": "Huge",
+    "maneuverability": "poor (-1 Piloting, turn 3)",
+    "hp": {
+      "base": "160",
+      "increment": "20"
+    },
+    "dt": "5",
+    "ct": "32",
+    "mounts_raw": [
+      {
+        "text": "forward arc (1 heavy), aft arc (1 heavy), turret (2 light)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "10",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "20",
+    "maximum_crew": "50",
+    "cost": "55"
+  },
+  {
+    "name": "Cruiser",
+    "source_raw": [
+      {
+        "text": "Starfinder Core Rulebook pg. 295",
+        "link": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook",
+        "line_break": true
+      }
+    ],
+    "size": "Huge",
+    "maneuverability": "average (+0 Piloting, turn 2)",
+    "hp": {
+      "base": "180",
+      "increment": "25"
+    },
+    "dt": "5",
+    "ct": "36",
+    "mounts_raw": [
+      {
+        "text": "forward arc (1 capital), port arc (1 light), starboard arc (1 light), turret (1 heavy)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "6",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "20",
+    "maximum_crew": "100",
+    "cost": "60"
+  },
+  {
+    "name": "Carrier",
+    "source_raw": [
+      {
+        "text": "Starfinder Core Rulebook pg. 296",
+        "link": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook",
+        "line_break": true
+      }
+    ],
+    "size": "Gargantuan",
+    "maneuverability": "poor (-1 Piloting, turn 3)",
+    "hp": {
+      "base": "240",
+      "increment": "30"
+    },
+    "dt": "10",
+    "ct": "48",
+    "mounts_raw": [
+      {
+        "text": "forward arc (1 capital), port arc (3 heavy), starboard arc (3 heavy), turret (2 light)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "10 (must have at least 1 hanger bay)",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "75",
+    "maximum_crew": "200",
+    "cost": "120"
+  },
+  {
+    "name": "Battleship",
+    "source_raw": [
+      {
+        "text": "Starfinder Core Rulebook pg. 296",
+        "link": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook",
+        "line_break": true
+      }
+    ],
+    "size": "Gargantuan",
+    "maneuverability": "average (+0 Piloting, turn 2)",
+    "hp": {
+      "base": "280",
+      "increment": "40"
+    },
+    "dt": "10",
+    "ct": "56",
+    "mounts_raw": [
+      {
+        "text": "forward arc (1 capital, 2 heavy), port arc (2 heavy, 1 light), starboard arc (2 heavy, 1 light), aft arc (1 light), turret (2 heavy)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "8",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "100",
+    "maximum_crew": "300",
+    "cost": "150"
+  },
+  {
+    "name": "Dreadnought",
+    "source_raw": [
+      {
+        "text": "Starfinder Core Rulebook pg. 296",
+        "link": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook",
+        "line_break": true
+      }
+    ],
+    "size": "Colossal",
+    "maneuverability": "clumsy (-2 Piloting, turn 4)",
+    "hp": {
+      "base": "400",
+      "increment": "50"
+    },
+    "dt": "15",
+    "ct": "80",
+    "mounts_raw": [
+      {
+        "text": "forward arc (2 capital, 2 heavy), port arc (1 capital, 3 heavy), starboard arc (1 capital, 3 heavy), turret (4 light)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "20",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "125",
+    "maximum_crew": "500",
+    "cost": "200"
+  },
+  {
+    "name": "Base Ship",
+    "source_raw": [
+      {
+        "text": "Starfinder #6: Empire of Bones pg. 45",
+        "link": "https://paizo.com/products/btpya1ai/",
+        "line_break": true
+      }
+    ],
+    "size": "Supercolossal",
+    "maneuverability": "clumsy (-2 Piloting, turn 4)",
+    "hp": {
+      "base": "450",
+      "increment": "75"
+    },
+    "dt": "15",
+    "ct": "90",
+    "mounts_raw": [
+      {
+        "text": "forward arc (4 heavy), port arc (4 heavy), starboard arc (4 heavy), turret (2 capital)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "— (unlimited; a base ship with increased width or length can support more expansion bays)",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "150",
+    "maximum_crew": "100000",
+    "cost": "250"
+  },
+  {
+    "name": "Ultranought",
+    "source_raw": [
+      {
+        "text": "Starfinder #6: Empire of Bones pg. 45",
+        "link": "https://paizo.com/products/btpya1ai/",
+        "line_break": true
+      }
+    ],
+    "size": "Supercolossal",
+    "maneuverability": "clumsy (-2 Piloting, turn 4)",
+    "hp": {
+      "base": "550",
+      "increment": "100"
+    },
+    "dt": "20",
+    "ct": "110",
+    "mounts_raw": [
+      {
+        "text": "forward arc (2 capital, 2 heavy, 1 spinal mount), port arc (2 capital, 3 heavy), starboard arc (2 capital, 3 heavy), turret (1 capital, 2 heavy)",
+        "line_break": true
+      }
+    ],
+    "expansion_bays_raw": [
+      {
+        "text": "— (unlimited; an ultranought with increased width or length can support more expansion bays)",
+        "line_break": true
+      }
+    ],
+    "minimum_crew": "250",
+    "maximum_crew": "5000",
+    "cost": "350"
+  }
+]

@@ -1,0 +1,134 @@
+{
+  "creature_type": [
+    {
+      "name": "Aberration",
+      "traits": ": Darkvision 60 ft.",
+      "adjustments": ": +2 to Will saving throws.",
+      "raw_description": [
+        "Source",
+        "Alien Archive pg. 132",
+        "An aberration has a bizarre anatomy, strange abilities, an alien mindset, or any combination of the three."
+      ]
+    },
+    {
+      "name": "Animal",
+      "traits": ": Low-light vision; set Intelligence modifier to –4 or –5.",
+      "adjustments": ": +2 to Fortitude and Reflex saving throws.",
+      "raw_description": [
+        "Source",
+        "Alien Archive pg. 132",
+        "An animal is a living, nonhumanoid creature, usually a vertebrate with no magical abilities and no innate capacity for language or culture."
+      ]
+    },
+    {
+      "name": "Construct",
+      "traits": ": Darkvision 60 ft., low-light vision, construct immunities, unliving; set Constitution modifier to —; must have either the magical or technological subtype; if the construct is mindless, set Intelligence modifier to — and add mindless.",
+      "adjustments": ": –2 to all saving throws, +1 to attack rolls.",
+      "raw_description": [
+        "Source",
+        "Alien Archive pg. 132",
+        "A construct is a magically animated object or an artificially created creature."
+      ]
+    },
+    {
+      "name": "Dragon",
+      "traits": ": Darkvision 60 ft., low-light vision, immunity to paralysis and sleep.",
+      "adjustments": ": +2 to all saving throws, +1 to attack rolls.",
+      "raw_description": [
+        "Source",
+        "Alien Archive pg. 133",
+        "A dragon is a reptilian creature, usually winged, with magical or otherwise unusual abilities."
+      ]
+    },
+    {
+      "name": "Fey",
+      "traits": ": Low-light vision.",
+      "adjustments": ": +2 to Fortitude and Reflex saving throws, –1 to attack rolls.",
+      "raw_description": [
+        "Source",
+        "Alien Archive pg. 133",
+        "A fey is a creature with supernatural abilities and connections to nature or to some other force or place."
+      ]
+    },
+    {
+      "name": "Humanoid",
+      "traits": ": Must have a subtype that matches its race (such as human, lashunta, or shirren) or that is related to its race (such as goblinoid).",
+      "adjustments": ": +2 to one type of saving throw.",
+      "raw_description": [
+        "Source",
+        "Alien Archive pg. 133",
+        "A humanoid usually has two arms, two legs, and one head, or it has a humanlike torso, arms, and a head. Humanoids have few or no supernatural or extraordinary abilities, but most can speak and usually have well-developed societies."
+      ]
+    },
+    {
+      "name": "Magical Beast",
+      "traits": ": Darkvision 60 ft., low-light vision.",
+      "adjustments": ": +2 to Fortitude and Reflex saving throws, +1 to attack rolls.",
+      "raw_description": [
+        "Source",
+        "Alien Archive pg. 133",
+        "Magical beasts are similar to animals but can have Intelligence modifiers greater than –4 (in which case the magical beast knows at least one language, though it can’t necessarily speak). Magical beasts usually have supernatural or extraordinary abilities."
+      ]
+    },
+    {
+      "name": "Monstrous Humanoid",
+      "traits": ": Darkvision 60 ft.",
+      "adjustments": ": +2 to Reflex and Will saving throws, +1 to attack rolls.",
+      "raw_description": [
+        "Source",
+        "Alien Archive pg. 133",
+        "Monstrous humanoids are similar to humanoids, but they have monstrous or animalistic features. They often have magical abilities as well."
+      ]
+    },
+    {
+      "name": "Ooze",
+      "traits": ": Blindsight, mindless, ooze immunities, sightless; set Intelligence modifier to —.",
+      "adjustments": ": +2 to Fortitude saving throws, –2 to Reflex and Will saving throws, no master or good skills unless the creature would have them naturally, rather than through training.",
+      "raw_description": [
+        "Source",
+        "Alien Archive pg. 133",
+        "An ooze is an amorphous or mutable creature."
+      ]
+    },
+    {
+      "name": "Outsider",
+      "traits": ": Darkvision 60 ft.; if the outsider is a member of a specific race (such as angel, devil, etc.), it must have a subtype to match its race.",
+      "adjustments": ": +2 to one type of saving throw, +1 to attack rolls.",
+      "raw_description": [
+        "Source",
+        "Alien Archive pg. 133",
+        "An outsider is at least partially composed of the essence (but not necessarily the material) of a plane other than the Material Plane. Some creatures start out as another type and become outsiders when they attain a higher or lower state of spiritual existence."
+      ]
+    },
+    {
+      "name": "Plant",
+      "traits": ": Low-light vision, plant immunities.",
+      "adjustments": ": +2 to Fortitude saving throws.",
+      "raw_description": [
+        "Source",
+        "Alien Archive pg. 133",
+        "This type describes vegetable creatures. Note that regular plants, such as those growing in gardens or fields, lack Wisdom and Charisma modifiers and are objects, not creatures, even though they are alive."
+      ]
+    },
+    {
+      "name": "Undead",
+      "traits": ": Darkvision 60 ft., undead immunities, unliving; set Constitution modifier to —.",
+      "adjustments": ": +2 to Will saving throws.",
+      "raw_description": [
+        "Source",
+        "Alien Archive pg. 133",
+        "Undead are once-living creatures animated by magic or advanced technological forces."
+      ]
+    },
+    {
+      "name": "Vermin",
+      "traits": ": Darkvision 60 ft., mindless; set Intelligence modifier to —.",
+      "adjustments": ": +2 to Fortitude saving throws.",
+      "raw_description": [
+        "Source",
+        "Alien Archive pg. 133",
+        "This type includes insects, arachnids, other arthropods, worms, and similar invertebrates."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+[
+  {
+    "name": "t6 thrusters",
+    "size": "t",
+    "speed": "6",
+    "piloting_modifier": "+1",
+    "cost": "3"
+  },
+  {
+    "name": "t8 thrusters",
+    "size": "t",
+    "speed": "8",
+    "piloting_modifier": "+0",
+    "cost": "4"
+  },
+  {
+    "name": "t10 thrusters",
+    "size": "t",
+    "speed": "10",
+    "piloting_modifier": "+0",
+    "cost": "5"
+  },
+  {
+    "name": "t12 thrusters",
+    "size": "t",
+    "speed": "12",
+    "piloting_modifier": "-1",
+    "cost": "6"
+  },
+  {
+    "name": "t14 thrusters",
+    "size": "t",
+    "speed": "14",
+    "piloting_modifier": "-2",
+    "cost": "7"
+  },
+  {
+    "name": "s6 thrusters",
+    "size": "s",
+    "speed": "6",
+    "piloting_modifier": "+1",
+    "cost": "3"
+  },
+  {
+    "name": "s8 thrusters",
+    "size": "s",
+    "speed": "8",
+    "piloting_modifier": "+0",
+    "cost": "4"
+  },
+  {
+    "name": "s10 thrusters",
+    "size": "s",
+    "speed": "10",
+    "piloting_modifier": "+0",
+    "cost": "5"
+  },
+  {
+    "name": "s12 thrusters",
+    "size": "s",
+    "speed": "12",
+    "piloting_modifier": "-1",
+    "cost": "6"
+  },
+  {
+    "name": "m4 thrusters",
+    "size": "m",
+    "speed": "4",
+    "piloting_modifier": "+2",
+    "cost": "2"
+  },
+  {
+    "name": "m6 thrusters",
+    "size": "m",
+    "speed": "6",
+    "piloting_modifier": "+1",
+    "cost": "3"
+  },
+  {
+    "name": "m8 thrusters",
+    "size": "m",
+    "speed": "8",
+    "piloting_modifier": "+0",
+    "cost": "4"
+  },
+  {
+    "name": "m10 thrusters",
+    "size": "m",
+    "speed": "10",
+    "piloting_modifier": "+0",
+    "cost": "5"
+  },
+  {
+    "name": "m12 thrusters",
+    "size": "m",
+    "speed": "12",
+    "piloting_modifier": "-1",
+    "cost": "6"
+  },
+  {
+    "name": "l4 thrusters",
+    "size": "l",
+    "speed": "4",
+    "piloting_modifier": "+2",
+    "cost": "4"
+  },
+  {
+    "name": "l6 thrusters",
+    "size": "l",
+    "speed": "6",
+    "piloting_modifier": "+1",
+    "cost": "6"
+  },
+  {
+    "name": "l8 thrusters",
+    "size": "l",
+    "speed": "8",
+    "piloting_modifier": "+0",
+    "cost": "8"
+  },
+  {
+    "name": "l10 thrusters",
+    "size": "l",
+    "speed": "10",
+    "piloting_modifier": "+0",
+    "cost": "10"
+  },
+  {
+    "name": "h4 thrusters",
+    "size": "h",
+    "speed": "4",
+    "piloting_modifier": "+2",
+    "cost": "4"
+  },
+  {
+    "name": "h6 thrusters",
+    "size": "h",
+    "speed": "6",
+    "piloting_modifier": "+1",
+    "cost": "6"
+  },
+  {
+    "name": "h8 thrusters",
+    "size": "h",
+    "speed": "8",
+    "piloting_modifier": "+0",
+    "cost": "8"
+  },
+  {
+    "name": "h10 thrusters",
+    "size": "h",
+    "speed": "10",
+    "piloting_modifier": "+0",
+    "cost": "10"
+  },
+  {
+    "name": "g4 thrusters",
+    "size": "g",
+    "speed": "4",
+    "piloting_modifier": "+2",
+    "cost": "8"
+  },
+  {
+    "name": "g6 thrusters",
+    "size": "g",
+    "speed": "6",
+    "piloting_modifier": "+1",
+    "cost": "12"
+  },
+  {
+    "name": "g8 thrusters",
+    "size": "g",
+    "speed": "8",
+    "piloting_modifier": "+0",
+    "cost": "16"
+  },
+  {
+    "name": "c4 thrusters",
+    "size": "c",
+    "speed": "4",
+    "piloting_modifier": "+2",
+    "cost": "8"
+  },
+  {
+    "name": "c6 thrusters",
+    "size": "c",
+    "speed": "6",
+    "piloting_modifier": "+1",
+    "cost": "12"
+  },
+  {
+    "name": "c8 thrusters",
+    "size": "c",
+    "speed": "8",
+    "piloting_modifier": "+0",
+    "cost": "16"
+  },
+  {
+    "name": "sc4 thrusters",
+    "size": "sc",
+    "speed": "4",
+    "piloting_modifier": "+1",
+    "cost": "16"
+  },
+  {
+    "name": "sc6 thrusters",
+    "size": "sc",
+    "speed": "6",
+    "piloting_modifier": "+0",
+    "cost": "20"
+  },
+  {
+    "name": "sc8 thrusters",
+    "size": "sc",
+    "speed": "8",
+    "piloting_modifier": "-1",
+    "cost": "24"
+  }
+]

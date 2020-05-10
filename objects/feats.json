@@ -1,0 +1,3609 @@
+[
+  {
+    "raw_name": "Accelerated Recovery",
+    "name": "Accelerated Recovery",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Accelerated Recovery",
+    "prerequisite_raw": "Con 13",
+    "special_raw": "Recover more quickly during an 8-hour rest",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Con",
+        "score": "13"
+      }
+    ],
+    "id": "feats.accelerated_recovery"
+  },
+  {
+    "raw_name": "Adaptive Casting",
+    "name": "Adaptive Casting",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Adaptive Casting",
+    "prerequisite_raw": "Key ability score 19, caster level 7",
+    "special_raw": "Select three additional spells known; cast one of them once a day",
+    "prerequisites": [
+      {
+        "type": "key_ability_score",
+        "score": "19"
+      },
+      {
+        "type": "unknown",
+        "raw": "caster level 7"
+      }
+    ],
+    "id": "feats.adaptive_casting"
+  },
+  {
+    "raw_name": "Adaptive Fighting*",
+    "name": "Adaptive Fighting",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Adaptive Fighting",
+    "prerequisite_raw": "Three or more combat feats",
+    "special_raw": "Once per day as a move action, gain the benefit of a combat feat you don’t have",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Three or more combat feats"
+      }
+    ],
+    "id": "feats.adaptive_fighting"
+  },
+  {
+    "raw_name": "Adaptive Upgrade",
+    "name": "Adaptive Upgrade",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Adaptive Upgrade",
+    "prerequisite_raw": "Int 19, Engineering 10 ranks",
+    "special_raw": "Temporarily create low-level armor upgrades",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Int",
+        "score": "19"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "Engineering 1",
+        "rank": "0"
+      }
+    ],
+    "id": "feats.adaptive_upgrade"
+  },
+  {
+    "raw_name": "Add Leverage*",
+    "name": "Add Leverage",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Add Leverage",
+    "prerequisite_raw": "Str 15",
+    "special_raw": "Grip your weapon with more hands to move foes farther with combat maneuvers",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Str",
+        "score": "15"
+      }
+    ],
+    "id": "feats.add_leverage"
+  },
+  {
+    "raw_name": "Advance Warning*",
+    "name": "Advance Warning",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Advance Warning",
+    "prerequisite_raw": "Cha 15",
+    "special_raw": "Shout a warning to your allies, causing them to stop being flat-footed",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Cha",
+        "score": "15"
+      }
+    ],
+    "id": "feats.advance_warning"
+  },
+  {
+    "raw_name": "Advanced Melee Weapon Proficiency*",
+    "name": "Advanced Melee Weapon Proficiency",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Advanced Melee Weapon Proficiency",
+    "prerequisite_raw": "Proficiency in basic melee weapons",
+    "special_raw": "No penalty to attacks with advanced melee weapons",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Proficiency in basic melee weapons"
+      }
+    ],
+    "id": "feats.advanced_melee_weapon_proficiency"
+  },
+  {
+    "raw_name": "Agile Casting",
+    "name": "Agile Casting",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Agile Casting",
+    "prerequisite_raw": "Key ability score 15, Dex 15, Mobility, caster level 4th",
+    "special_raw": "Cast a spell at any point during movement",
+    "prerequisites": [
+      {
+        "type": "key_ability_score",
+        "score": "15"
+      },
+      {
+        "type": "ability_score_match",
+        "ability": "Dex",
+        "score": "15"
+      },
+      {
+        "type": "feat",
+        "name": "Mobility"
+      },
+      {
+        "type": "unknown",
+        "raw": "caster level 4th"
+      }
+    ],
+    "id": "feats.agile_casting"
+  },
+  {
+    "raw_name": "All Hands on Deck",
+    "name": "All Hands on Deck",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=All Hands on Deck",
+    "prerequisite_raw": "Four or more arms",
+    "special_raw": "Many hands make light work",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Four or more arms"
+      }
+    ],
+    "id": "feats.all_hands_on_deck"
+  },
+  {
+    "raw_name": "Ambuscade*",
+    "name": "Ambuscade",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Ambuscade",
+    "prerequisite_raw": "—",
+    "special_raw": "When you make an attack in the surprise round against a target that has not yet acted, gain a bonus to attacks and damage",
+    "prerequisites": [],
+    "id": "feats.ambuscade"
+  },
+  {
+    "raw_name": "Ambush Awareness*",
+    "name": "Ambush Awareness",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Ambush Awareness",
+    "prerequisite_raw": "—",
+    "special_raw": "If you fail the Perception check to act in the surprise round, you can still take a full defense action",
+    "prerequisites": [],
+    "id": "feats.ambush_awareness"
+  },
+  {
+    "raw_name": "Amplified Glitch*",
+    "name": "Amplified Glitch",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Amplified Glitch",
+    "prerequisite_raw": "Computers 3 ranks, Intimidate 3 ranks",
+    "special_raw": "Disrupt devices, causing targets to become shaken for 1 round or more",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Computers",
+        "rank": "3"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "Intimidate",
+        "rank": "3"
+      }
+    ],
+    "id": "feats.amplified_glitch"
+  },
+  {
+    "raw_name": "Antagonize",
+    "name": "Antagonize",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Antagonize",
+    "prerequisite_raw": "Diplomacy 5 ranks, Intimidate 5 ranks",
+    "special_raw": "Anger a foe, causing it to become off-target and take a -2 penalty to skill checks for 1 round or more",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Diplomacy",
+        "rank": "5"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "Intimidate",
+        "rank": "5"
+      }
+    ],
+    "id": "feats.antagonize"
+  },
+  {
+    "raw_name": "Arm Extensions",
+    "name": "Arm Extensions",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Arm Extensions",
+    "prerequisite_raw": "Constructed racial trait or construct type",
+    "special_raw": "You have special devices installed into your arms that allow you to extend them great distances",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Constructed racial trait or construct type"
+      }
+    ],
+    "id": "feats.arm_extensions"
+  },
+  {
+    "raw_name": "Barricade*",
+    "name": "Barricade",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Barricade",
+    "prerequisite_raw": "Engineering 1 rank",
+    "special_raw": "Create your own fragile cover",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Engineering",
+        "rank": "1"
+      }
+    ],
+    "id": "feats.barricade"
+  },
+  {
+    "raw_name": "Basic Melee Weapon Proficiency*",
+    "name": "Basic Melee Weapon Proficiency",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Basic Melee Weapon Proficiency",
+    "prerequisite_raw": "—",
+    "special_raw": "No penalty to attacks with basic melee weapons",
+    "prerequisites": [],
+    "id": "feats.basic_melee_weapon_proficiency"
+  },
+  {
+    "raw_name": "Blind-Fight*",
+    "name": "Blind-Fight",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Blind-Fight",
+    "prerequisite_raw": "—",
+    "special_raw": "Reroll miss chances from concealment",
+    "prerequisites": [],
+    "id": "feats.blind_fight"
+  },
+  {
+    "raw_name": "Blood in Their Eyes*",
+    "name": "Blood in Their Eyes",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Blood in Their Eyes",
+    "prerequisite_raw": "—",
+    "special_raw": "Your critical hits with slashing attacks make foes dazzled",
+    "prerequisites": [],
+    "id": "feats.blood_in_their_eyes"
+  },
+  {
+    "raw_name": "Bodyguard*",
+    "name": "Bodyguard",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Bodyguard",
+    "prerequisite_raw": "—",
+    "special_raw": "Add a +2 bonus to an adjacent ally’s AC as a reaction",
+    "prerequisites": [],
+    "id": "feats.bodyguard"
+  },
+  {
+    "raw_name": "Cleave*",
+    "name": "Cleave",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Cleave",
+    "prerequisite_raw": "Str 13, base attack bonus +1",
+    "special_raw": "Make an additional melee attack if the first one hits",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Str",
+        "score": "13"
+      },
+      {
+        "type": "base_attack_bonus",
+        "bonus": "1"
+      }
+    ],
+    "id": "feats.cleave"
+  },
+  {
+    "raw_name": "Climbing Master",
+    "name": "Climbing Master",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Climbing Master",
+    "prerequisite_raw": "Athletics 5 ranks",
+    "special_raw": "Gain a climb speed equal to your base speed",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Athletics",
+        "rank": "5"
+      }
+    ],
+    "id": "feats.climbing_master"
+  },
+  {
+    "raw_name": "Close Combat*",
+    "name": "Close Combat",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Close Combat",
+    "prerequisite_raw": "Base attack bonus +1",
+    "special_raw": "Gain a +2 bonus to AC against ranged attacks when are are in melee combat",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "1"
+      }
+    ],
+    "id": "feats.close_combat"
+  },
+  {
+    "raw_name": "Combat Casting*",
+    "name": "Combat Casting",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Combat Casting",
+    "prerequisite_raw": "Ability to cast 2nd-level spells",
+    "special_raw": "+2 bonus to AC and saves against attacks of opportunity when casting spells",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Ability to cast 2nd-level spells"
+      }
+    ],
+    "id": "feats.combat_casting"
+  },
+  {
+    "raw_name": "Connection Inkling",
+    "name": "Connection Inkling",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Connection Inkling",
+    "prerequisite_raw": "Wis 15, character level 5th, no levels in mystic",
+    "special_raw": "Gain the ability to cast minor mystic spells",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Wis",
+        "score": "15"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 5th"
+      },
+      {
+        "type": "unknown",
+        "raw": "no levels in mystic"
+      }
+    ],
+    "id": "feats.connection_inkling"
+  },
+  {
+    "raw_name": "Constant Alert*",
+    "name": "Constant Alert",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Constant Alert",
+    "prerequisite_raw": "Wis 11, character level 5th",
+    "special_raw": "Reroll your initiative check and automatically win ties",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Wis",
+        "score": "11"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 5th"
+      }
+    ],
+    "id": "feats.constant_alert"
+  },
+  {
+    "raw_name": "Cook Grenade*",
+    "name": "Cook Grenade",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Cook Grenade",
+    "prerequisite_raw": "Dex 11, proficiency with grenades",
+    "special_raw": "Time your release of a grenade to increase its effectiveness",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Dex",
+        "score": "11"
+      },
+      {
+        "type": "unknown",
+        "raw": "proficiency with grenades"
+      }
+    ],
+    "id": "feats.cook_grenade"
+  },
+  {
+    "raw_name": "Coordinated Shot*",
+    "name": "Coordinated Shot",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Coordinated Shot",
+    "prerequisite_raw": "Base attack bonus +1",
+    "special_raw": "Allies gain a +1 bonus to ranged attacks against foes you threaten",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "1"
+      }
+    ],
+    "id": "feats.coordinated_shot"
+  },
+  {
+    "raw_name": "Corruption’s Gift",
+    "name": "Corruption’s Gift",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Corruption’s Gift",
+    "prerequisite_raw": "One or more <%RULES%Corruptions&Category=Afflictions%%>corruption manifestations<%END>",
+    "special_raw": "You have embraced your corruption.",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "One or more <%RULES%Corruptions&Category=Afflictions%%>corruption manifestations<%END>"
+      }
+    ],
+    "id": "feats.corruption_s_gift"
+  },
+  {
+    "raw_name": "Cosmic Truth",
+    "name": "Cosmic Truth",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Cosmic Truth",
+    "prerequisite_raw": "Wis 15, Bluff 5 ranks, Mysticism 5 ranks",
+    "special_raw": "Reveal a cosmic truth that makes one target who fails a Will save confused for 1d4 rounds",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Wis",
+        "score": "15"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "Bluff",
+        "rank": "5"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "Mysticism",
+        "rank": "5"
+      }
+    ],
+    "id": "feats.cosmic_truth"
+  },
+  {
+    "raw_name": "Craven Ploy*",
+    "name": "Craven Ploy",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Craven Ploy",
+    "prerequisite_raw": "Cha 13",
+    "special_raw": "When the going gets tough, you hide behind allies.",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Cha",
+        "score": "13"
+      }
+    ],
+    "id": "feats.craven_ploy"
+  },
+  {
+    "raw_name": "Deadly Aim*",
+    "name": "Deadly Aim",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Deadly Aim",
+    "prerequisite_raw": "Base attack bonus +1",
+    "special_raw": "Take a −2 penalty to weapon attacks to deal extra damage",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "1"
+      }
+    ],
+    "id": "feats.deadly_aim"
+  },
+  {
+    "raw_name": "Deadly Boast",
+    "name": "Deadly Boast",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Deadly Boast",
+    "prerequisite_raw": "Cha 19, Bluff 10 ranks",
+    "special_raw": "Make an attack or effect sound so impressive that foes have a harder time defending against it",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Cha",
+        "score": "19"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "Bluff 1",
+        "rank": "0"
+      }
+    ],
+    "id": "feats.deadly_boast"
+  },
+  {
+    "raw_name": "Defensive Roll*",
+    "name": "Defensive Roll",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Defensive Roll",
+    "prerequisite_raw": "Dex 19, Acrobatics 10 ranks",
+    "special_raw": "Attempt an Acrobatics check in place of a Reflex save or to dodge an attack",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Dex",
+        "score": "19"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "Acrobatics 1",
+        "rank": "0"
+      }
+    ],
+    "id": "feats.defensive_roll"
+  },
+  {
+    "raw_name": "Deflect Projectiles*",
+    "name": "Deflect Projectiles",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Deflect Projectiles",
+    "prerequisite_raw": "Base attack bonus +8",
+    "special_raw": "Spend 1 Resolve Point to attempt to avoid a ranged attack",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "8"
+      }
+    ],
+    "id": "feats.deflect_projectiles"
+  },
+  {
+    "raw_name": "Diehard",
+    "name": "Diehard",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Diehard",
+    "prerequisite_raw": "—",
+    "special_raw": "You can spend Resolve Points to stabilize and to stay in the fight in the same round",
+    "prerequisites": [],
+    "id": "feats.diehard"
+  },
+  {
+    "raw_name": "Dire Straits*",
+    "name": "Dire Straits",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Dire Straits",
+    "prerequisite_raw": "Con 15",
+    "special_raw": "Stabilize when you have no Hit Points or Resolve Points left",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Con",
+        "score": "15"
+      }
+    ],
+    "id": "feats.dire_straits"
+  },
+  {
+    "raw_name": "Disease Adaptation",
+    "name": "Disease Adaptation",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Disease Adaptation",
+    "prerequisite_raw": "Con 11",
+    "special_raw": "+2 enhancement bonus to saves against disease",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Con",
+        "score": "11"
+      }
+    ],
+    "id": "feats.disease_adaptation"
+  },
+  {
+    "raw_name": "Disease Rejection",
+    "name": "Disease Rejection",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Disease Rejection",
+    "prerequisite_raw": "Con 17, Disease Adaptation",
+    "special_raw": "Recover from diseases much more swiftly",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Con",
+        "score": "17"
+      },
+      {
+        "type": "feat",
+        "name": "Disease Adaptation"
+      }
+    ],
+    "id": "feats.disease_rejection"
+  },
+  {
+    "raw_name": "Dispelling Strike",
+    "name": "Dispelling Strike",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Dispelling Strike",
+    "prerequisite_raw": "Base attack bonus +10, Mysticism 10 ranks",
+    "special_raw": "Spend 1 Resolve Point to make a melee attack act as dispel magic",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "10"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "Mysticism 1",
+        "rank": "0"
+      }
+    ],
+    "id": "feats.dispelling_strike"
+  },
+  {
+    "raw_name": "Dive for Cover*",
+    "name": "Dive for Cover",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Dive for Cover",
+    "prerequisite_raw": "Base Reflex save bonus +2",
+    "special_raw": "Fall prone in an adjacent square to roll a Reflex save twice",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Base Reflex save bonus +2"
+      }
+    ],
+    "id": "feats.dive_for_cover"
+  },
+  {
+    "raw_name": "Diverse Conditioning",
+    "name": "Diverse Conditioning",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Diverse Conditioning",
+    "prerequisite_raw": "Eternal hope or ecstatic joy racial trait, character level 5th",
+    "special_raw": "Your broad experience has made you better at avoiding danger",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Eternal hope or ecstatic joy racial trait"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 5th"
+      }
+    ],
+    "id": "feats.diverse_conditioning"
+  },
+  {
+    "raw_name": "Diversion",
+    "name": "Diversion",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Diversion",
+    "prerequisite_raw": "—",
+    "special_raw": "Use Bluff to create a distraction so that your allies can hide",
+    "prerequisites": [],
+    "id": "feats.diversion"
+  },
+  {
+    "raw_name": "Divine Blessing",
+    "name": "Divine Blessing",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Divine Blessing",
+    "prerequisite_raw": "Worship a deity of an alignment within one step of your own alignment",
+    "special_raw": "Gain a boon from your patron deity",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Worship a deity of an alignment within one step of your own alignment"
+      }
+    ],
+    "id": "feats.divine_blessing"
+  },
+  {
+    "raw_name": "Double Draw*",
+    "name": "Double Draw",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Double Draw",
+    "prerequisite_raw": "Four or more arms",
+    "special_raw": "Your limbs allow you to manipulate multiple weapons",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Four or more arms"
+      }
+    ],
+    "id": "feats.double_draw"
+  },
+  {
+    "raw_name": "Double Tap*",
+    "name": "Double Tap",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Double Tap",
+    "prerequisite_raw": "Weapon Focus (small arms), proficiency with small arms",
+    "special_raw": "Expend double the normal ammunition to gain bonuses to attack and damage with a small arm",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Weapon Focus (small arms)"
+      },
+      {
+        "type": "unknown",
+        "raw": "proficiency with small arms"
+      }
+    ],
+    "id": "feats.double_tap"
+  },
+  {
+    "raw_name": "Drag Down*",
+    "name": "Drag Down",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Drag Down",
+    "prerequisite_raw": "—",
+    "special_raw": "When you are tripped, you can attempt to trip an adjacent foe",
+    "prerequisites": [],
+    "id": "feats.drag_down"
+  },
+  {
+    "raw_name": "Echolocation Attack",
+    "name": "Echolocation Attack",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Echolocation Attack",
+    "prerequisite_raw": "Perception as a class skill",
+    "special_raw": "Use the echo of sonic attacks to better sense your surroundings",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Perception as a class skill"
+      }
+    ],
+    "id": "feats.echolocation_attack"
+  },
+  {
+    "raw_name": "Eldritch Lore",
+    "name": "Eldritch Lore",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Eldritch Lore",
+    "prerequisite_raw": "Key ability score 19, Lesser Eldritch Lore, Minor Eldritch Lore, caster level 10th, 10 levels in a class with a class spell list",
+    "special_raw": "Gain an additional 2nd-level spell known",
+    "prerequisites": [
+      {
+        "type": "key_ability_score",
+        "score": "19"
+      },
+      {
+        "type": "feat",
+        "name": "Lesser Eldritch Lore"
+      },
+      {
+        "type": "feat",
+        "name": "Minor Eldritch Lore"
+      },
+      {
+        "type": "unknown",
+        "raw": "caster level 10th"
+      },
+      {
+        "type": "unknown",
+        "raw": "10 levels in a class with a class spell list"
+      }
+    ],
+    "id": "feats.eldritch_lore"
+  },
+  {
+    "raw_name": "Enhanced Communalism",
+    "name": "Enhanced Communalism",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Enhanced Communalism",
+    "prerequisite_raw": "Character level 5th, communalism racial trait",
+    "special_raw": "You’re able to benefit from your allies’ presence more often",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Character level 5th"
+      },
+      {
+        "type": "unknown",
+        "raw": "communalism racial trait"
+      }
+    ],
+    "id": "feats.enhanced_communalism"
+  },
+  {
+    "raw_name": "Enhanced Resistance",
+    "name": "Enhanced Resistance",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Enhanced Resistance",
+    "prerequisite_raw": "Base attack bonus +4",
+    "special_raw": "Gain damage reduction or energy resistance",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "4"
+      }
+    ],
+    "id": "feats.enhanced_resistance"
+  },
+  {
+    "raw_name": "Environmental Adaptation",
+    "name": "Environmental Adaptation",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Environmental Adaptation",
+    "prerequisite_raw": "Con 13",
+    "special_raw": "Gain immunity to a number of environmental and weather effects",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Con",
+        "score": "13"
+      }
+    ],
+    "id": "feats.environmental_adaptation"
+  },
+  {
+    "raw_name": "Extended Telepathy",
+    "name": "Extended Telepathy",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Extended Telepathy",
+    "prerequisite_raw": "Limited telepathy racial trait",
+    "special_raw": "Increase the range of your telepathy",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Limited telepathy racial trait"
+      }
+    ],
+    "id": "feats.extended_telepathy"
+  },
+  {
+    "raw_name": "Extra Resolve",
+    "name": "Extra Resolve",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Extra Resolve",
+    "prerequisite_raw": "Character level 5th",
+    "special_raw": "Gain 2 additional Resolve Points",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Character level 5th"
+      }
+    ],
+    "id": "feats.extra_resolve"
+  },
+  {
+    "raw_name": "Far Shot*",
+    "name": "Far Shot",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Far Shot",
+    "prerequisite_raw": "Base attack bonus +1",
+    "special_raw": "Reduce penalty due to range increments",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "1"
+      }
+    ],
+    "id": "feats.far_shot"
+  },
+  {
+    "raw_name": "Fast Talk",
+    "name": "Fast Talk",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Fast Talk",
+    "prerequisite_raw": "Bluff 5 ranks",
+    "special_raw": "Baffle a potential foe, causing it to be surprised when combat begins",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Bluff",
+        "rank": "5"
+      }
+    ],
+    "id": "feats.fast_talk"
+  },
+  {
+    "raw_name": "Fleet*",
+    "name": "Fleet",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Fleet",
+    "prerequisite_raw": "—",
+    "special_raw": "Increase your base speed",
+    "prerequisites": [],
+    "id": "feats.fleet"
+  },
+  {
+    "raw_name": "Focused Sense",
+    "name": "Focused Sense",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Focused Sense",
+    "prerequisite_raw": "Blindsense",
+    "special_raw": "Temporarily gain blindsight with a limited range",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Blindsense"
+      }
+    ],
+    "id": "feats.focused_sense"
+  },
+  {
+    "raw_name": "Focused Spellcaster*",
+    "name": "Focused Spellcaster",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Focused Spellcaster",
+    "prerequisite_raw": "Combat Casting, ability to cast 4th-level spells",
+    "special_raw": "Spend a resolve point to successfully cast a spell after you take damage during the casting",
+    "prerequisites": [
+      {
+        "type": "feat",
+        "name": "Combat Casting"
+      },
+      {
+        "type": "unknown",
+        "raw": "ability to cast 4th-level spells"
+      }
+    ],
+    "id": "feats.focused_spellcaster"
+  },
+  {
+    "raw_name": "Fouling Reposition*",
+    "name": "Fouling Reposition",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Fouling Reposition",
+    "prerequisite_raw": "Improved Combat Maneuver (reposition)",
+    "special_raw": "Reposition a foe to throw it and another creature off balance",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Improved Combat Maneuver (reposition)"
+      }
+    ],
+    "id": "feats.fouling_reposition"
+  },
+  {
+    "raw_name": "Four-Handed Hacker",
+    "name": "Four-Handed Hacker",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Four-Handed Hacker",
+    "prerequisite_raw": "Computers 1 rank, four or more hands",
+    "special_raw": "When you hack a computer, it’s a two-front war",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Computers",
+        "rank": "1"
+      },
+      {
+        "type": "unknown",
+        "raw": "four or more hands"
+      }
+    ],
+    "id": "feats.four_handed_hacker"
+  },
+  {
+    "raw_name": "Frightening Injection",
+    "name": "Frightening Injection",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Frightening Injection",
+    "prerequisite_raw": "Intimidate 3 ranks",
+    "special_raw": "Intimidate your foes when you inject them",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Intimidate",
+        "rank": "3"
+      }
+    ],
+    "id": "feats.frightening_injection"
+  },
+  {
+    "raw_name": "Frightful Display",
+    "name": "Frightful Display",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Frightful Display",
+    "prerequisite_raw": "Cha 15, Intimidate 5 ranks, ability to cast spells",
+    "special_raw": "Intimidate a foe as a reaction after they fail a save against your spell",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Cha",
+        "score": "15"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "Intimidate",
+        "rank": "5"
+      },
+      {
+        "type": "unknown",
+        "raw": "ability to cast spells"
+      }
+    ],
+    "id": "feats.frightful_display"
+  },
+  {
+    "raw_name": "Fusillade*",
+    "name": "Fusillade",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Fusillade",
+    "prerequisite_raw": "Base attack bonus +1, four or more arms",
+    "special_raw": "Make an automatic-mode attack with multiple small arms",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "1"
+      },
+      {
+        "type": "unknown",
+        "raw": "four or more arms"
+      }
+    ],
+    "id": "feats.fusillade"
+  },
+  {
+    "raw_name": "Grab Attention*",
+    "name": "Grab Attention",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Grab Attention",
+    "prerequisite_raw": "Intimidate 5 ranks",
+    "special_raw": "Make a foe you hit in melee off-target when attacking anyone other than you",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Intimidate",
+        "rank": "5"
+      }
+    ],
+    "id": "feats.grab_attention"
+  },
+  {
+    "raw_name": "Grappler Pull*",
+    "name": "Grappler Pull",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Grappler Pull",
+    "prerequisite_raw": "Str 11",
+    "special_raw": "Use a grappler to draw your foes closer to you",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Str",
+        "score": "11"
+      }
+    ],
+    "id": "feats.grappler_pull"
+  },
+  {
+    "raw_name": "Great Cleave*",
+    "name": "Great Cleave",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Great Cleave",
+    "prerequisite_raw": "Str 13, Cleave, base attack bonus +4",
+    "special_raw": "Make an additional melee attack after each melee attack that hits",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Str",
+        "score": "13"
+      },
+      {
+        "type": "feat",
+        "name": "Cleave"
+      },
+      {
+        "type": "base_attack_bonus",
+        "bonus": "4"
+      }
+    ],
+    "id": "feats.great_cleave"
+  },
+  {
+    "raw_name": "Great Fortitude",
+    "name": "Great Fortitude",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Great Fortitude",
+    "prerequisite_raw": "—",
+    "special_raw": "+2 bonus to Fortitude saves",
+    "prerequisites": [],
+    "id": "feats.great_fortitude"
+  },
+  {
+    "raw_name": "Greater Eldritch Lore",
+    "name": "Greater Eldritch Lore",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Greater Eldritch Lore",
+    "prerequisite_raw": "Key ability score 21, Eldritch Lore, Lesser Eldritch Lore, Minor Eldritch Lore, caster level 13th, 13 levels in a class with a class spell list",
+    "special_raw": "Gain an additional 3rd-level spell known",
+    "prerequisites": [
+      {
+        "type": "key_ability_score",
+        "score": "21"
+      },
+      {
+        "type": "feat",
+        "name": "Eldritch Lore"
+      },
+      {
+        "type": "feat",
+        "name": "Lesser Eldritch Lore"
+      },
+      {
+        "type": "feat",
+        "name": "Minor Eldritch Lore"
+      },
+      {
+        "type": "unknown",
+        "raw": "caster level 13th"
+      },
+      {
+        "type": "unknown",
+        "raw": "13 levels in a class with a class spell list"
+      }
+    ],
+    "id": "feats.greater_eldritch_lore"
+  },
+  {
+    "raw_name": "Greater Feint*",
+    "name": "Greater Feint",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Greater Feint",
+    "prerequisite_raw": "Improved Feint, base attack bonus +6",
+    "special_raw": "Foes you feint against are flat-footed for 1 round",
+    "prerequisites": [
+      {
+        "type": "feat",
+        "name": "Improved Feint"
+      },
+      {
+        "type": "base_attack_bonus",
+        "bonus": "6"
+      }
+    ],
+    "id": "feats.greater_feint"
+  },
+  {
+    "raw_name": "Greater Shadow Infusion",
+    "name": "Greater Shadow Infusion",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Greater Shadow Infusion",
+    "prerequisite_raw": "Improved Shadow Infusion, Shadow Infusion, character level 13th",
+    "special_raw": "The energy of the Shadow Plane suffuses your body, mind, and spirit.",
+    "prerequisites": [
+      {
+        "type": "feat",
+        "name": "Improved Shadow Infusion"
+      },
+      {
+        "type": "feat",
+        "name": "Shadow Infusion"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 13th"
+      }
+    ],
+    "id": "feats.greater_shadow_infusion"
+  },
+  {
+    "raw_name": "Greater Spell Penetration",
+    "name": "Greater Spell Penetration",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Greater Spell Penetration",
+    "prerequisite_raw": "Spell Penetration",
+    "special_raw": "Additional +2 bonus to caster level checks to overcome SR",
+    "prerequisites": [
+      {
+        "type": "feat",
+        "name": "Spell Penetration"
+      }
+    ],
+    "id": "feats.greater_spell_penetration"
+  },
+  {
+    "raw_name": "Grenade Mastery*",
+    "name": "Grenade Mastery",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Grenade Mastery",
+    "prerequisite_raw": "Proficiency with grenades",
+    "special_raw": "Increase the saving throw DCs of grenades you use",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Proficiency with grenades"
+      }
+    ],
+    "id": "feats.grenade_mastery"
+  },
+  {
+    "raw_name": "Grenade Proficiency*",
+    "name": "Grenade Proficiency",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Grenade Proficiency",
+    "prerequisite_raw": "—",
+    "special_raw": "No penalty to attacks made with grenades",
+    "prerequisites": [],
+    "id": "feats.grenade_proficiency"
+  },
+  {
+    "raw_name": "Ground Fighting*",
+    "name": "Ground Fighting",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Ground Fighting",
+    "prerequisite_raw": "Str 11",
+    "special_raw": "Ignore penalties to unarmed attacks when grappled, pinned, or prone",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Str",
+        "score": "11"
+      }
+    ],
+    "id": "feats.ground_fighting"
+  },
+  {
+    "raw_name": "Harm Undead",
+    "name": "Harm Undead",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Harm Undead",
+    "prerequisite_raw": "Healing channel connection power, mystic level 1st",
+    "special_raw": "Expend a spell slot for healing channel to also damage undead",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Healing channel connection power"
+      },
+      {
+        "type": "unknown",
+        "raw": "mystic level 1st"
+      }
+    ],
+    "id": "feats.harm_undead"
+  },
+  {
+    "raw_name": "Hauler",
+    "name": "Hauler",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Hauler",
+    "prerequisite_raw": "Str 13",
+    "special_raw": "You can carry much more than usual",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Str",
+        "score": "13"
+      }
+    ],
+    "id": "feats.hauler"
+  },
+  {
+    "raw_name": "Heavy Armor Proficiency*",
+    "name": "Heavy Armor Proficiency",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Heavy Armor Proficiency",
+    "prerequisite_raw": "Str 13, proficiency in light armor",
+    "special_raw": "No penalty to attack rolls while wearing heavy armor",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Str",
+        "score": "13"
+      },
+      {
+        "type": "unknown",
+        "raw": "proficiency in light armor"
+      }
+    ],
+    "id": "feats.heavy_armor_proficiency"
+  },
+  {
+    "raw_name": "Heavy Weapon Proficiency*",
+    "name": "Heavy Weapon Proficiency",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Heavy Weapon Proficiency",
+    "prerequisite_raw": "Str 13, proficiency in small arms and longarms",
+    "special_raw": "No penalty to attacks with heavy weapons",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Str",
+        "score": "13"
+      },
+      {
+        "type": "unknown",
+        "raw": "proficiency in small arms and longarms"
+      }
+    ],
+    "id": "feats.heavy_weapon_proficiency"
+  },
+  {
+    "raw_name": "Helpful Telepath",
+    "name": "Helpful Telepath",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Helpful Telepath",
+    "prerequisite_raw": "Communalism or hive defense racial trait, limited telepathy or telepathy racial trait",
+    "special_raw": "You’re able to provide uncanny support to your allies",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Communalism or hive defense racial trait"
+      },
+      {
+        "type": "unknown",
+        "raw": "limited telepathy or telepathy racial trait"
+      }
+    ],
+    "id": "feats.helpful_telepath"
+  },
+  {
+    "raw_name": "Improved Combat Maneuver*",
+    "name": "Improved Combat Maneuver",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Improved Combat Maneuver",
+    "prerequisite_raw": "Base attack bonus +1",
+    "special_raw": "+4 bonus to perform one combat maneuver",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "1"
+      }
+    ],
+    "id": "feats.improved_combat_maneuver"
+  },
+  {
+    "raw_name": "Improved Critical*",
+    "name": "Improved Critical",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Improved Critical",
+    "prerequisite_raw": "Base attack bonus +8",
+    "special_raw": "The DC to resist the critical effects of your critical hits increases by 2",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "8"
+      }
+    ],
+    "id": "feats.improved_critical"
+  },
+  {
+    "raw_name": "Improved Demoralize",
+    "name": "Improved Demoralize",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Improved Demoralize",
+    "prerequisite_raw": "—",
+    "special_raw": "You are skilled at quickly demoralizing your foes.",
+    "prerequisites": [],
+    "id": "feats.improved_demoralize"
+  },
+  {
+    "raw_name": "Improved Energy Resistance",
+    "name": "Improved Energy Resistance",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Improved Energy Resistance",
+    "prerequisite_raw": "Con 13, character level 10th, energy resistance from a racial trait",
+    "special_raw": "Your natural energy resistance is more pronounced",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Con",
+        "score": "13"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 10th"
+      },
+      {
+        "type": "unknown",
+        "raw": "energy resistance from a racial trait"
+      }
+    ],
+    "id": "feats.improved_energy_resistance"
+  },
+  {
+    "raw_name": "Improved Feint*",
+    "name": "Improved Feint",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Improved Feint",
+    "prerequisite_raw": "—",
+    "special_raw": "Use Bluff to feint as a move action",
+    "prerequisites": [],
+    "id": "feats.improved_feint"
+  },
+  {
+    "raw_name": "Improved Great Fortitude",
+    "name": "Improved Great Fortitude",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Improved Great Fortitude",
+    "prerequisite_raw": "Great Fortitude, character level 5th",
+    "special_raw": "Spend 1 Resolve Point to reroll a Fortitude save",
+    "prerequisites": [
+      {
+        "type": "feat",
+        "name": "Great Fortitude"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 5th"
+      }
+    ],
+    "id": "feats.improved_great_fortitude"
+  },
+  {
+    "raw_name": "Improved Initiative*",
+    "name": "Improved Initiative",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Improved Initiative",
+    "prerequisite_raw": "—",
+    "special_raw": "+4 bonus to initiative checks",
+    "prerequisites": [],
+    "id": "feats.improved_initiative"
+  },
+  {
+    "raw_name": "Improved Iron Will",
+    "name": "Improved Iron Will",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Improved Iron Will",
+    "prerequisite_raw": "Iron Will, character level 5th",
+    "special_raw": "Spend 1 Resolve Point to reroll a Will save",
+    "prerequisites": [
+      {
+        "type": "feat",
+        "name": "Iron Will"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 5th"
+      }
+    ],
+    "id": "feats.improved_iron_will"
+  },
+  {
+    "raw_name": "Improved Kip-Up",
+    "name": "Improved Kip-Up",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Improved Kip-Up",
+    "prerequisite_raw": "Acrobatics 1 rank, Kip-Up feat or moxie racial trait",
+    "special_raw": "You can stand from prone in a blink of an eye",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Acrobatics",
+        "rank": "1"
+      },
+      {
+        "type": "unknown",
+        "raw": "Kip-Up feat or moxie racial trait"
+      }
+    ],
+    "id": "feats.improved_kip_up"
+  },
+  {
+    "raw_name": "Improved Lightning Reflexes",
+    "name": "Improved Lightning Reflexes",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Improved Lightning Reflexes",
+    "prerequisite_raw": "Lightning Reflexes, character level 5th",
+    "special_raw": "Spend 1 Resolve Point to reroll a Reflex save",
+    "prerequisites": [
+      {
+        "type": "feat",
+        "name": "Lightning Reflexes"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 5th"
+      }
+    ],
+    "id": "feats.improved_lightning_reflexes"
+  },
+  {
+    "raw_name": "Improved Shadow Infusion",
+    "name": "Improved Shadow Infusion",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Improved Shadow Infusion",
+    "prerequisite_raw": "Shadow Infusion, character level 7th",
+    "special_raw": "Your connection to the Shadow Plane has grown stronger.",
+    "prerequisites": [
+      {
+        "type": "feat",
+        "name": "Shadow Infusion"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 7th"
+      }
+    ],
+    "id": "feats.improved_shadow_infusion"
+  },
+  {
+    "raw_name": "Improved Sidestep*",
+    "name": "Improved Sidestep",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Improved Sidestep",
+    "prerequisite_raw": "Dex 17, Mobility or trick attack class feature, Sidestep",
+    "special_raw": "Reduce penalties from Sidestep",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Dex",
+        "score": "17"
+      },
+      {
+        "type": "unknown",
+        "raw": "Mobility or trick attack class feature"
+      },
+      {
+        "type": "feat",
+        "name": "Sidestep"
+      }
+    ],
+    "id": "feats.improved_sidestep"
+  },
+  {
+    "raw_name": "Improved Stand Still*",
+    "name": "Improved Stand Still",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Improved Stand Still",
+    "prerequisite_raw": "Stand Still",
+    "special_raw": "+4 bonus to melee attacks with Stand Still",
+    "prerequisites": [
+      {
+        "type": "feat",
+        "name": "Stand Still"
+      }
+    ],
+    "id": "feats.improved_stand_still"
+  },
+  {
+    "raw_name": "Improved Unarmed Strike*",
+    "name": "Improved Unarmed Strike",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Improved Unarmed Strike",
+    "prerequisite_raw": "—",
+    "special_raw": "Deal more damage and threaten squares with unarmed strikes",
+    "prerequisites": [],
+    "id": "feats.improved_unarmed_strike"
+  },
+  {
+    "raw_name": "In Harm’s Way*",
+    "name": "In Harm’s Way",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=In Harm’s Way",
+    "prerequisite_raw": "Bodyguard",
+    "special_raw": "Take the damage of a successful attack against an adjacent ally",
+    "prerequisites": [
+      {
+        "type": "feat",
+        "name": "Bodyguard"
+      }
+    ],
+    "id": "feats.in_harm_s_way"
+  },
+  {
+    "raw_name": "Indirect Retreat*",
+    "name": "Indirect Retreat",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Indirect Retreat",
+    "prerequisite_raw": "Dex 13, Mobility",
+    "special_raw": "You can run through winding corridors and weave your way through grasping claws without pause.",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Dex",
+        "score": "13"
+      },
+      {
+        "type": "feat",
+        "name": "Mobility"
+      }
+    ],
+    "id": "feats.indirect_retreat"
+  },
+  {
+    "raw_name": "Instant Crater*",
+    "name": "Instant Crater",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Instant Crater",
+    "prerequisite_raw": "Base attack bonus +5",
+    "special_raw": "Weapons with the explode special property create difficult terrain",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "5"
+      }
+    ],
+    "id": "feats.instant_crater"
+  },
+  {
+    "raw_name": "Iron Will",
+    "name": "Iron Will",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Iron Will",
+    "prerequisite_raw": "—",
+    "special_raw": "+2 bonus to Will saves",
+    "prerequisites": [],
+    "id": "feats.iron_will"
+  },
+  {
+    "raw_name": "Jet Charge*",
+    "name": "Jet Charge",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Jet Charge",
+    "prerequisite_raw": "Piloting 3 ranks",
+    "special_raw": "Boost your charge attacks with jets to move farther",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Piloting",
+        "rank": "3"
+      }
+    ],
+    "id": "feats.jet_charge"
+  },
+  {
+    "raw_name": "Jet Dash",
+    "name": "Jet Dash",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Jet Dash",
+    "prerequisite_raw": "—",
+    "special_raw": "Move faster when running, double height and distance when jumping",
+    "prerequisites": [],
+    "id": "feats.jet_dash"
+  },
+  {
+    "raw_name": "Kasathan Battle Dance*",
+    "name": "Kasathan Battle Dance",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Kasathan Battle Dance",
+    "prerequisite_raw": "Prerequisites: Dex 13, Mobility or trick attack",
+    "special_raw": "Avoid all attacks of opportunity when you withdraw",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Dex",
+        "score": "13"
+      },
+      {
+        "type": "unknown",
+        "raw": "Mobility or trick attack"
+      }
+    ],
+    "id": "feats.kasathan_battle_dance"
+  },
+  {
+    "raw_name": "Kip Up*",
+    "name": "Kip Up",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Kip Up",
+    "prerequisite_raw": "Acrobatics 1 rank",
+    "special_raw": "Stand from prone as a swift action",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Acrobatics",
+        "rank": "1"
+      }
+    ],
+    "id": "feats.kip_up"
+  },
+  {
+    "raw_name": "Laugh at Danger*",
+    "name": "Laugh at Danger",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Laugh at Danger",
+    "prerequisite_raw": "Con 13",
+    "special_raw": "Grant an ally a +2 morale bonus to AC as a reaction when you take Hit Point damage",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Con",
+        "score": "13"
+      }
+    ],
+    "id": "feats.laugh_at_danger"
+  },
+  {
+    "raw_name": "Lesser Eldritch Lore",
+    "name": "Lesser Eldritch Lore",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Lesser Eldritch Lore",
+    "prerequisite_raw": "Key ability score 17, Minor Eldritch Lore, caster level 7th, 7 levels in a class with a class spell list",
+    "special_raw": "Gain an additional 1st-level spell known",
+    "prerequisites": [
+      {
+        "type": "key_ability_score",
+        "score": "17"
+      },
+      {
+        "type": "feat",
+        "name": "Minor Eldritch Lore"
+      },
+      {
+        "type": "unknown",
+        "raw": "caster level 7th"
+      },
+      {
+        "type": "unknown",
+        "raw": "7 levels in a class with a class spell list"
+      }
+    ],
+    "id": "feats.lesser_eldritch_lore"
+  },
+  {
+    "raw_name": "Light Armor Proficiency*",
+    "name": "Light Armor Proficiency",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Light Armor Proficiency",
+    "prerequisite_raw": "—",
+    "special_raw": "No penalty to attack rolls while wearing light armor",
+    "prerequisites": [],
+    "id": "feats.light_armor_proficiency"
+  },
+  {
+    "raw_name": "Lightning Reflexes",
+    "name": "Lightning Reflexes",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Lightning Reflexes",
+    "prerequisite_raw": "—",
+    "special_raw": "+2 bonus to Reflex saves",
+    "prerequisites": [],
+    "id": "feats.lightning_reflexes"
+  },
+  {
+    "raw_name": "Living Ladder*",
+    "name": "Living Ladder",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Living Ladder",
+    "prerequisite_raw": "Str 17",
+    "special_raw": "Hit an adjacent foe with an unarmed attack to stand and possibly knock them prone",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Str",
+        "score": "17"
+      }
+    ],
+    "id": "feats.living_ladder"
+  },
+  {
+    "raw_name": "Longarm Proficiency*",
+    "name": "Longarm Proficiency",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Longarm Proficiency",
+    "prerequisite_raw": "Proficiency in small arms",
+    "special_raw": "No penalty to attacks with longarms",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Proficiency in small arms"
+      }
+    ],
+    "id": "feats.longarm_proficiency"
+  },
+  {
+    "raw_name": "Lung Puncture*",
+    "name": "Lung Puncture",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Lung Puncture",
+    "prerequisite_raw": "—",
+    "special_raw": "Your critical hits with piercing weapons cause foes to be fatigued",
+    "prerequisites": [],
+    "id": "feats.lung_puncture"
+  },
+  {
+    "raw_name": "Lunge*",
+    "name": "Lunge",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Lunge",
+    "prerequisite_raw": "Base attack bonus +6",
+    "special_raw": "Increase reach of melee attacks by 5 feet until the end of your turn",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "6"
+      }
+    ],
+    "id": "feats.lunge"
+  },
+  {
+    "raw_name": "Major Eldritch Lore",
+    "name": "Major Eldritch Lore",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Major Eldritch Lore",
+    "prerequisite_raw": "Key ability score 23, Eldritch Lore, Greater Eldritch Lore, Lesser Eldritch Lore, Minor Eldritch Lore, caster level 16th, 16 levels in a class with a class spell list",
+    "special_raw": "Gain an additional 4th-level spell known",
+    "prerequisites": [
+      {
+        "type": "key_ability_score",
+        "score": "23"
+      },
+      {
+        "type": "feat",
+        "name": "Eldritch Lore"
+      },
+      {
+        "type": "feat",
+        "name": "Greater Eldritch Lore"
+      },
+      {
+        "type": "feat",
+        "name": "Lesser Eldritch Lore"
+      },
+      {
+        "type": "feat",
+        "name": "Minor Eldritch Lore"
+      },
+      {
+        "type": "unknown",
+        "raw": "caster level 16th"
+      },
+      {
+        "type": "unknown",
+        "raw": "16 levels in a class with a class spell list"
+      }
+    ],
+    "id": "feats.major_eldritch_lore"
+  },
+  {
+    "raw_name": "Major Psychic Power",
+    "name": "Major Psychic Power",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Major Psychic Power",
+    "prerequisite_raw": "Cha 15, Minor Psychic Power, Psychic Power, character level 7th",
+    "special_raw": "Cast a 2nd-level spell as a spell-like ability 1/day",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Cha",
+        "score": "15"
+      },
+      {
+        "type": "feat",
+        "name": "Minor Psychic Power"
+      },
+      {
+        "type": "feat",
+        "name": "Psychic Power"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 7th"
+      }
+    ],
+    "id": "feats.major_psychic_power"
+  },
+  {
+    "raw_name": "Major Stage Magic",
+    "name": "Major Stage Magic",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Major Stage Magic",
+    "prerequisite_raw": "Cha 15, Minor Stage Magic, Stage Magic, character level 7th",
+    "special_raw": "Gain a 2nd-level spell-like ability",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Cha",
+        "score": "15"
+      },
+      {
+        "type": "feat",
+        "name": "Minor Stage Magic"
+      },
+      {
+        "type": "feat",
+        "name": "Stage Magic"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 7th"
+      }
+    ],
+    "id": "feats.major_stage_magic"
+  },
+  {
+    "raw_name": "Many-Handed Master*",
+    "name": "Many-Handed Master",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Many-Handed Master",
+    "prerequisite_raw": "Four or more arms",
+    "special_raw": "You use your many limbs to counter combat maneuvers",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Four or more arms"
+      }
+    ],
+    "id": "feats.many_handed_master"
+  },
+  {
+    "raw_name": "Masked Visage",
+    "name": "Masked Visage",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Masked Visage",
+    "prerequisite_raw": "—",
+    "special_raw": "With your face concealed, you can be inscrutable",
+    "prerequisites": [],
+    "id": "feats.masked_visage"
+  },
+  {
+    "raw_name": "Master Crafter",
+    "name": "Master Crafter",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Master Crafter",
+    "prerequisite_raw": "Computers, Engineering, Life Science, Mysticism, Physical Science, or appropriate Profession 5 ranks",
+    "special_raw": "Craft items in half the normal time",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Computers"
+      },
+      {
+        "type": "unknown",
+        "raw": "Engineering"
+      },
+      {
+        "type": "unknown",
+        "raw": "Life Science"
+      },
+      {
+        "type": "unknown",
+        "raw": "Mysticism"
+      },
+      {
+        "type": "unknown",
+        "raw": "Physical Science"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "or appropriate Profession",
+        "rank": "5"
+      }
+    ],
+    "id": "feats.master_crafter"
+  },
+  {
+    "raw_name": "Medical Expert",
+    "name": "Medical Expert",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Medical Expert",
+    "prerequisite_raw": "Life Science 1 rank, Medicine 1 rank, Physical Science 1 rank",
+    "special_raw": "Treat deadly wounds more quickly, and provide long-term care without a medical lab",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Life Science",
+        "rank": "1"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "Medicine",
+        "rank": "1"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "Physical Science",
+        "rank": "1"
+      }
+    ],
+    "id": "feats.medical_expert"
+  },
+  {
+    "raw_name": "Melt Defenses*",
+    "name": "Melt Defenses",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Melt Defenses",
+    "prerequisite_raw": "Base attack bonus +11",
+    "special_raw": "On a critical hit, cause further attacks against a foe to target EAC",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "11"
+      }
+    ],
+    "id": "feats.melt_defenses"
+  },
+  {
+    "raw_name": "Memory Access",
+    "name": "Memory Access",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Memory Access",
+    "prerequisite_raw": "Construct type, constructed racial trait, exocortex, or head slot augmentation",
+    "special_raw": "+2 insight bonus to skill checks to identify creatures and recall knowledge",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Construct type"
+      },
+      {
+        "type": "unknown",
+        "raw": "constructed racial trait"
+      },
+      {
+        "type": "unknown",
+        "raw": "exocortex"
+      },
+      {
+        "type": "unknown",
+        "raw": "or head slot augmentation"
+      }
+    ],
+    "id": "feats.memory_access"
+  },
+  {
+    "raw_name": "Minor Eldritch Lore",
+    "name": "Minor Eldritch Lore",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Minor Eldritch Lore",
+    "prerequisite_raw": "Key ability score 15, caster level 4th, 4 levels in a class with a class spell list",
+    "special_raw": "Gain an additional 0-level spell known",
+    "prerequisites": [
+      {
+        "type": "key_ability_score",
+        "score": "15"
+      },
+      {
+        "type": "unknown",
+        "raw": "caster level 4th"
+      },
+      {
+        "type": "unknown",
+        "raw": "4 levels in a class with a class spell list"
+      }
+    ],
+    "id": "feats.minor_eldritch_lore"
+  },
+  {
+    "raw_name": "Minor Psychic Power",
+    "name": "Minor Psychic Power",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Minor Psychic Power",
+    "prerequisite_raw": "Cha 11",
+    "special_raw": "Cast a 0-level spell as a spell-like ability 3/day",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Cha",
+        "score": "11"
+      }
+    ],
+    "id": "feats.minor_psychic_power"
+  },
+  {
+    "raw_name": "Minor Stage Magic",
+    "name": "Minor Stage Magic",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Minor Stage Magic",
+    "prerequisite_raw": "Cha 11",
+    "special_raw": "Gain a 0-level spell-like ability",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Cha",
+        "score": "11"
+      }
+    ],
+    "id": "feats.minor_stage_magic"
+  },
+  {
+    "raw_name": "Mobility*",
+    "name": "Mobility",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Mobility",
+    "prerequisite_raw": "Dex 13",
+    "special_raw": "+4 bonus to AC against attacks of opportunity from movement",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Dex",
+        "score": "13"
+      }
+    ],
+    "id": "feats.mobility"
+  },
+  {
+    "raw_name": "Momentous Attack*",
+    "name": "Momentous Attack",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Momentous Attack",
+    "prerequisite_raw": "Str 11, Athletics 5 ranks",
+    "special_raw": "On a melee critical hit, move 5 feet",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Str",
+        "score": "11"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "Athletics",
+        "rank": "5"
+      }
+    ],
+    "id": "feats.momentous_attack"
+  },
+  {
+    "raw_name": "Multifaceted Nature",
+    "name": "Multifaceted Nature",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Multifaceted Nature",
+    "prerequisite_raw": "Dimorphic or driftborn racial trait, character level 9th",
+    "special_raw": "Through a twist of genetics, magic, or strange fate, you developed another of your race’s traits",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Dimorphic or driftborn racial trait"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 9th"
+      }
+    ],
+    "id": "feats.multifaceted_nature"
+  },
+  {
+    "raw_name": "Multi-Weapon Fighting*",
+    "name": "Multi-Weapon Fighting",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Multi-Weapon Fighting",
+    "prerequisite_raw": "—",
+    "special_raw": "Reduce the penalty for full attacks when using multiple small arms or operative melee weapons",
+    "prerequisites": [],
+    "id": "feats.multi_weapon_fighting"
+  },
+  {
+    "raw_name": "Mystic Strike*",
+    "name": "Mystic Strike",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Mystic Strike",
+    "prerequisite_raw": "Ability to cast spells",
+    "special_raw": "Melee and ranged attacks count as magic",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Ability to cast spells"
+      }
+    ],
+    "id": "feats.mystic_strike"
+  },
+  {
+    "raw_name": "Nanite Integration",
+    "name": "Nanite Integration",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Nanite Integration",
+    "prerequisite_raw": "Character level 3rd, constructed racial trait or construct type",
+    "special_raw": "Nanites responsible for maintaining your constructed body have been upgraded, and a subset of them has been reprogrammed to perform incredible feats",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Character level 3rd"
+      },
+      {
+        "type": "unknown",
+        "raw": "constructed racial trait or construct type"
+      }
+    ],
+    "id": "feats.nanite_integration"
+  },
+  {
+    "raw_name": "Nimble Moves*",
+    "name": "Nimble Moves",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Nimble Moves",
+    "prerequisite_raw": "Dex 15",
+    "special_raw": "Ignore 20 feet of difficult terrain when you move",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Dex",
+        "score": "15"
+      }
+    ],
+    "id": "feats.nimble_moves"
+  },
+  {
+    "raw_name": "Opening Volley*",
+    "name": "Opening Volley",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Opening Volley",
+    "prerequisite_raw": "—",
+    "special_raw": "+2 bonus to a melee attack against a target you damaged with a ranged attack",
+    "prerequisites": [],
+    "id": "feats.opening_volley"
+  },
+  {
+    "raw_name": "Oracular Gift",
+    "name": "Oracular Gift",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Oracular Gift",
+    "prerequisite_raw": "Ability to cast augury",
+    "special_raw": "Gain +1 to initiative checks, and you can cast an enhanced augury once per day without spending RP",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Ability to cast augury"
+      }
+    ],
+    "id": "feats.oracular_gift"
+  },
+  {
+    "raw_name": "Parting Shot*",
+    "name": "Parting Shot",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Parting Shot",
+    "prerequisite_raw": "Dex 15, Mobility, Shot on the Run, base attack bonus +6",
+    "special_raw": "Make a single ranged attack when withdrawing",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Dex",
+        "score": "15"
+      },
+      {
+        "type": "feat",
+        "name": "Mobility"
+      },
+      {
+        "type": "feat",
+        "name": "Shot on the Run"
+      },
+      {
+        "type": "base_attack_bonus",
+        "bonus": "6"
+      }
+    ],
+    "id": "feats.parting_shot"
+  },
+  {
+    "raw_name": "Penetrating Attack*",
+    "name": "Penetrating Attack",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Penetrating Attack",
+    "prerequisite_raw": "Base attack bonus +12",
+    "special_raw": "Reduce enemy's DR and energy resistance against your weapons by 5",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "12"
+      }
+    ],
+    "id": "feats.penetrating_attack"
+  },
+  {
+    "raw_name": "Penetrating Spell",
+    "name": "Penetrating Spell",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Penetrating Spell",
+    "prerequisite_raw": "Ability to cast 4th-level spells",
+    "special_raw": "Reduce enemy's DR and energy resistance against your spells by 5",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Ability to cast 4th-level spells"
+      }
+    ],
+    "id": "feats.penetrating_spell"
+  },
+  {
+    "raw_name": "Percussive Maintenance",
+    "name": "Percussive Maintenance",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Percussive Maintenance",
+    "prerequisite_raw": "Str 11",
+    "special_raw": "Reroll checks for engineer crew actions in starship combat and engineering checks to repair items",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Str",
+        "score": "11"
+      }
+    ],
+    "id": "feats.percussive_maintenance"
+  },
+  {
+    "raw_name": "Periastra Training",
+    "name": "Periastra Training",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Periastra Training",
+    "prerequisite_raw": "Cha 13, Mysticism 5 ranks, <%CLASSES%Solarian%%>stellar mode<%END> class feature",
+    "special_raw": "Gain the benefit of a full attunement with only 1 or 2 attunement points",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Cha",
+        "score": "13"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "Mysticism",
+        "rank": "5"
+      },
+      {
+        "type": "unknown",
+        "raw": "<%CLASSES%Solarian%%>stellar mode<%END> class feature"
+      }
+    ],
+    "id": "feats.periastra_training"
+  },
+  {
+    "raw_name": "Pinpoint Hurler*",
+    "name": "Pinpoint Hurler",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Pinpoint Hurler",
+    "prerequisite_raw": "Str 15",
+    "special_raw": "Reduce the distance your thrown weapons travel when they miss",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Str",
+        "score": "15"
+      }
+    ],
+    "id": "feats.pinpoint_hurler"
+  },
+  {
+    "raw_name": "Poison Adaptation",
+    "name": "Poison Adaptation",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Poison Adaptation",
+    "prerequisite_raw": "Con 11",
+    "special_raw": "Gain a +2 enhancement bonus to saves against poison and take half damage from initial exposure",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Con",
+        "score": "11"
+      }
+    ],
+    "id": "feats.poison_adaptation"
+  },
+  {
+    "raw_name": "Poison Rejection",
+    "name": "Poison Rejection",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Poison Rejection",
+    "prerequisite_raw": "Con 17, Poison Adaptation",
+    "special_raw": "Recover from poisons more swiftly",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Con",
+        "score": "17"
+      },
+      {
+        "type": "feat",
+        "name": "Poison Adaptation"
+      }
+    ],
+    "id": "feats.poison_rejection"
+  },
+  {
+    "raw_name": "Polymorph Adept",
+    "name": "Polymorph Adept",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Polymorph Adept",
+    "prerequisite_raw": "You know the <%SPELLS%polymorph%%>polymorph<%END> spell as a 3rd-level spell or higher",
+    "special_raw": "Change the form of your polymorph spell",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "You know the <%SPELLS%polymorph%%>polymorph<%END> spell as a 3rd-level spell or higher"
+      }
+    ],
+    "id": "feats.polymorph_adept"
+  },
+  {
+    "raw_name": "Positive Conduit",
+    "name": "Positive Conduit",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Positive Conduit",
+    "prerequisite_raw": "Con 13",
+    "special_raw": "Gain extra Hit Points from magical healing",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Con",
+        "score": "13"
+      }
+    ],
+    "id": "feats.positive_conduit"
+  },
+  {
+    "raw_name": "Powered Armored Proficiency*",
+    "name": "Powered Armored Proficiency",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Powered Armored Proficiency",
+    "prerequisite_raw": "Str 13, base attack bonus +5, proficiency in light and heavy armor",
+    "special_raw": "No penalty to attack rolls while wearing powered armor",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Str",
+        "score": "13"
+      },
+      {
+        "type": "base_attack_bonus",
+        "bonus": "5"
+      },
+      {
+        "type": "unknown",
+        "raw": "proficiency in light and heavy armor"
+      }
+    ],
+    "id": "feats.powered_armored_proficiency"
+  },
+  {
+    "raw_name": "Profession Mastery",
+    "name": "Profession Mastery",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Profession Mastery",
+    "prerequisite_raw": "Cha 13, Int 13, or Wis 13 (see text); Profession (any) 1 rank, cultural fascination racial trait",
+    "special_raw": "Your deep exploration of the multiple cultures has taught you to use your professional know-how to great effect",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Cha",
+        "score": "13"
+      },
+      {
+        "type": "ability_score_match",
+        "ability": "Int",
+        "score": "13"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "or Wis 13 (see text); Profession (any)",
+        "rank": "1"
+      },
+      {
+        "type": "unknown",
+        "raw": "cultural fascination racial trait"
+      }
+    ],
+    "id": "feats.profession_mastery"
+  },
+  {
+    "raw_name": "Protective Fur",
+    "name": "Protective Fur",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Protective Fur",
+    "prerequisite_raw": "Skittermander or ysoki",
+    "special_raw": "Gain +2 circumstance bonus to saves against heat and cold dangers and +4 circumstance bonus to avoid contracting contact afflictions",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Skittermander or ysoki"
+      }
+    ],
+    "id": "feats.protective_fur"
+  },
+  {
+    "raw_name": "Protector of Kahlannal",
+    "name": "Protector of Kahlannal",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Protector of Kahlannal",
+    "prerequisite_raw": "Anassanoi, any non-chaotic and non-evil alignment",
+    "special_raw": "You have a unique psychic bond with your own Protector chariot.",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Anassanoi"
+      },
+      {
+        "type": "unknown",
+        "raw": "any non-chaotic and non-evil alignment"
+      }
+    ],
+    "id": "feats.protector_of_kahlannal"
+  },
+  {
+    "raw_name": "Psychic Insight",
+    "name": "Psychic Insight",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Psychic Insight",
+    "prerequisite_raw": "Limited telepathy or telepathy",
+    "special_raw": "Telepathic contact gives you social insight.",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Limited telepathy or telepathy"
+      }
+    ],
+    "id": "feats.psychic_insight"
+  },
+  {
+    "raw_name": "Psychic Power",
+    "name": "Psychic Power",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Psychic Power",
+    "prerequisite_raw": "Cha 13, Minor Psychic Power, character level 4th",
+    "special_raw": "Cast a 1st-level spell as a spell-like ability 1/day",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Cha",
+        "score": "13"
+      },
+      {
+        "type": "feat",
+        "name": "Minor Psychic Power"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 4th"
+      }
+    ],
+    "id": "feats.psychic_power"
+  },
+  {
+    "raw_name": "Psychic Sense",
+    "name": "Psychic Sense",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Psychic Sense",
+    "prerequisite_raw": "Limited telepathy or telepathy",
+    "special_raw": "You can sense nearby creatures using your telepathy.",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Limited telepathy or telepathy"
+      }
+    ],
+    "id": "feats.psychic_sense"
+  },
+  {
+    "raw_name": "Pull the Pin*",
+    "name": "Pull the Pin",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Pull the Pin",
+    "prerequisite_raw": "Improved Combat Maneuver (disarm)",
+    "special_raw": "Perform a disarm to activate a foe’s grenade",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Improved Combat Maneuver (disarm)"
+      }
+    ],
+    "id": "feats.pull_the_pin"
+  },
+  {
+    "raw_name": "Quick Draw*",
+    "name": "Quick Draw",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Quick Draw",
+    "prerequisite_raw": "Base attack bonus +1",
+    "special_raw": "Draw a weapon as a swift action",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "1"
+      }
+    ],
+    "id": "feats.quick_draw"
+  },
+  {
+    "raw_name": "Quicker Trickler",
+    "name": "Quicker Trickler",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Quicker Trickler",
+    "prerequisite_raw": "Medicine 3 ranks",
+    "special_raw": "Administer serums as a standard action instead of a full action",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Medicine",
+        "rank": "3"
+      }
+    ],
+    "id": "feats.quicker_trickler"
+  },
+  {
+    "raw_name": "Reality Glimmer",
+    "name": "Reality Glimmer",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Reality Glimmer",
+    "prerequisite_raw": "Cha 15, character level 5th, no levels in witchwarper",
+    "special_raw": "Gain the ability to cast minor witchwarper spells",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Cha",
+        "score": "15"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 5th"
+      },
+      {
+        "type": "unknown",
+        "raw": "no levels in witchwarper"
+      }
+    ],
+    "id": "feats.reality_glimmer"
+  },
+  {
+    "raw_name": "Reflect Projectiles*",
+    "name": "Reflect Projectiles",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Reflect Projectiles",
+    "prerequisite_raw": "Deflect Projectiles, base attack bonus +16",
+    "special_raw": "Spend 1 Resolve Point to attempt to redirect a ranged attack",
+    "prerequisites": [
+      {
+        "type": "feat",
+        "name": "Deflect Projectiles"
+      },
+      {
+        "type": "base_attack_bonus",
+        "bonus": "16"
+      }
+    ],
+    "id": "feats.reflect_projectiles"
+  },
+  {
+    "raw_name": "Reject Chains",
+    "name": "Reject Chains",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Reject Chains",
+    "prerequisite_raw": "Shirren",
+    "special_raw": "+2 insight bonus to saves against charm and compulsion effects, and you can reroll saves against such effects",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Shirren"
+      }
+    ],
+    "id": "feats.reject_chains"
+  },
+  {
+    "raw_name": "Ricochet Grenade*",
+    "name": "Ricochet Grenade",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Ricochet Grenade",
+    "prerequisite_raw": "Proficiency with grenades, base attack bonus +7",
+    "special_raw": "Bounce a grenade off a wall to reach difficult spo",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Proficiency with grenades"
+      },
+      {
+        "type": "base_attack_bonus",
+        "bonus": "7"
+      }
+    ],
+    "id": "feats.ricochet_grenade"
+  },
+  {
+    "raw_name": "Sacred Strike*",
+    "name": "Sacred Strike",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Sacred Strike",
+    "prerequisite_raw": "Worship a deity of an alignment within one step of your own",
+    "special_raw": "Treat your attacks as having your deity’s alignment",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Worship a deity of an alignment within one step of your own"
+      }
+    ],
+    "id": "feats.sacred_strike"
+  },
+  {
+    "raw_name": "Scurry",
+    "name": "Scurry",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Scurry",
+    "prerequisite_raw": "Racial bonus to Dexterity, size Small",
+    "special_raw": "Your small size affords you superior tactical positioning",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Racial bonus to Dexterity"
+      },
+      {
+        "type": "unknown",
+        "raw": "size Small"
+      }
+    ],
+    "id": "feats.scurry"
+  },
+  {
+    "raw_name": "Shadow Infusion",
+    "name": "Shadow Infusion",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Shadow Infusion",
+    "prerequisite_raw": "Strong connection to Shadow Plane",
+    "special_raw": "After enduring contact with the Shadow Plane, you have become infused with its energies.",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Strong connection to Shadow Plane"
+      }
+    ],
+    "id": "feats.shadow_infusion"
+  },
+  {
+    "raw_name": "Shelter Ally*",
+    "name": "Shelter Ally",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Shelter Ally",
+    "prerequisite_raw": "Bodyguard, natural reach of 10 feet or more",
+    "special_raw": "Use Bodyguard to protect allies within reach and increase the bonus and penalty by 1 when protecting a smaller creature",
+    "prerequisites": [
+      {
+        "type": "feat",
+        "name": "Bodyguard"
+      },
+      {
+        "type": "unknown",
+        "raw": "natural reach of 10 feet or more"
+      }
+    ],
+    "id": "feats.shelter_ally"
+  },
+  {
+    "raw_name": "Shield Block*",
+    "name": "Shield Block",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Shield Block",
+    "prerequisite_raw": "Proficiency with shields",
+    "special_raw": "Spent 1 Resolve Point as a reaction to reduce damage from area effects",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Proficiency with shields"
+      }
+    ],
+    "id": "feats.shield_block"
+  },
+  {
+    "raw_name": "Shield Proficiency*",
+    "name": "Shield Proficiency",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Shield Proficiency",
+    "prerequisite_raw": "—",
+    "special_raw": "Gain proficiency with shields",
+    "prerequisites": [],
+    "id": "feats.shield_proficiency"
+  },
+  {
+    "raw_name": "Shot on the Run*",
+    "name": "Shot on the Run",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Shot on the Run",
+    "prerequisite_raw": "Dex 15, Mobility, base attack bonus +4",
+    "special_raw": "Make a ranged attack at any point during movement",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Dex",
+        "score": "15"
+      },
+      {
+        "type": "feat",
+        "name": "Mobility"
+      },
+      {
+        "type": "base_attack_bonus",
+        "bonus": "4"
+      }
+    ],
+    "id": "feats.shot_on_the_run"
+  },
+  {
+    "raw_name": "Sidestep*",
+    "name": "Sidestep",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Sidestep",
+    "prerequisite_raw": "Dex 15, Mobility or trick attack class feature",
+    "special_raw": "Take guarded step as a reaction when a foe misses you with melee attack",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Dex",
+        "score": "15"
+      },
+      {
+        "type": "unknown",
+        "raw": "Mobility or trick attack class feature"
+      }
+    ],
+    "id": "feats.sidestep"
+  },
+  {
+    "raw_name": "Skill Focus",
+    "name": "Skill Focus",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Skill Focus",
+    "prerequisite_raw": "—",
+    "special_raw": "+3 insight bonus to one skill",
+    "prerequisites": [],
+    "id": "feats.skill_focus"
+  },
+  {
+    "raw_name": "Skill Synergy",
+    "name": "Skill Synergy",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Skill Synergy",
+    "prerequisite_raw": "—",
+    "special_raw": "Gain two new class skills or a +2 insight bonus to those skills",
+    "prerequisites": [],
+    "id": "feats.skill_synergy"
+  },
+  {
+    "raw_name": "Sky Jockey",
+    "name": "Sky Jockey",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Sky Jockey",
+    "prerequisite_raw": "Piloting 5 ranks",
+    "special_raw": "Make jetpacks, vehicles, and starships go faster",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Piloting",
+        "rank": "5"
+      }
+    ],
+    "id": "feats.sky_jockey"
+  },
+  {
+    "raw_name": "Slam Down*",
+    "name": "Slam Down",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Slam Down",
+    "prerequisite_raw": "—",
+    "special_raw": "Your critical hits with bludgeoning weapons knock down your foes",
+    "prerequisites": [],
+    "id": "feats.slam_down"
+  },
+  {
+    "raw_name": "Slippery Shooter*",
+    "name": "Slippery Shooter",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Slippery Shooter",
+    "prerequisite_raw": "Dex 15, base attack bonus +6",
+    "special_raw": "+3 bonus to AC against attacks of opportunity when making ranged attacks",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Dex",
+        "score": "15"
+      },
+      {
+        "type": "base_attack_bonus",
+        "bonus": "6"
+      }
+    ],
+    "id": "feats.slippery_shooter"
+  },
+  {
+    "raw_name": "Small Arm Proficiency*",
+    "name": "Small Arm Proficiency",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Small Arm Proficiency",
+    "prerequisite_raw": "—",
+    "special_raw": "No penalty to attacks with small arms",
+    "prerequisites": [],
+    "id": "feats.small_arm_proficiency"
+  },
+  {
+    "raw_name": "Sniper Weapon Proficiency*",
+    "name": "Sniper Weapon Proficiency",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Sniper Weapon Proficiency",
+    "prerequisite_raw": "—",
+    "special_raw": "No penalty to attacks with sniper weapons",
+    "prerequisites": [],
+    "id": "feats.sniper_weapon_proficiency"
+  },
+  {
+    "raw_name": "Solid Stance*",
+    "name": "Solid Stance",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Solid Stance",
+    "prerequisite_raw": "Con 15",
+    "special_raw": "Become harder to move, and use a reaction to avoid being knocked prone",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Con",
+        "score": "15"
+      }
+    ],
+    "id": "feats.solid_stance"
+  },
+  {
+    "raw_name": "Soothing Telepathy",
+    "name": "Soothing Telepathy",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Soothing Telepathy",
+    "prerequisite_raw": "Limited telepathy or telepathy",
+    "special_raw": "+2 insight bonus to saves against mind-affecting effects that you can extend to nearby allies",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Limited telepathy or telepathy"
+      }
+    ],
+    "id": "feats.soothing_telepathy"
+  },
+  {
+    "raw_name": "Special Weapon Proficiency*",
+    "name": "Special Weapon Proficiency",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Special Weapon Proficiency",
+    "prerequisite_raw": "Proficiency in basic melee weapons or small arms (see below)",
+    "special_raw": "No penalty to attacks with one special weapon",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Proficiency in basic melee weapons or small arms (see below)"
+      }
+    ],
+    "id": "feats.special_weapon_proficiency"
+  },
+  {
+    "raw_name": "Spell Feint",
+    "name": "Spell Feint",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Spell Feint",
+    "prerequisite_raw": "—",
+    "special_raw": "When you successfully feint, your foe takes a –1 penalty to saves against your next spell",
+    "prerequisites": [],
+    "id": "feats.spell_feint"
+  },
+  {
+    "raw_name": "Spell Focus",
+    "name": "Spell Focus",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Spell Focus",
+    "prerequisite_raw": "Ability to cast spells, character level 3rd",
+    "special_raw": "DCs of spells you cast increase",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Ability to cast spells"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 3rd"
+      }
+    ],
+    "id": "feats.spell_focus"
+  },
+  {
+    "raw_name": "Spell Penetration",
+    "name": "Spell Penetration",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Spell Penetration",
+    "prerequisite_raw": "—",
+    "special_raw": "+2 bonus to caster level checks to overcome SR",
+    "prerequisites": [],
+    "id": "feats.spell_penetration"
+  },
+  {
+    "raw_name": "Spellbane",
+    "name": "Spellbane",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Spellbane",
+    "prerequisite_raw": "Unable to cast spells or use spell-like abilities",
+    "special_raw": "+2 insight bonus to saving throws against spells and spell-like abilities",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Unable to cast spells or use spell-like abilities"
+      }
+    ],
+    "id": "feats.spellbane"
+  },
+  {
+    "raw_name": "Spellguard",
+    "name": "Spellguard",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Spellguard",
+    "prerequisite_raw": "Mysticism 3 ranks",
+    "special_raw": "Grant an ally a +2 insight bonus against a spell as a reaction",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Mysticism",
+        "rank": "3"
+      }
+    ],
+    "id": "feats.spellguard"
+  },
+  {
+    "raw_name": "Spot of Luck",
+    "name": "Spot of Luck",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Spot of Luck",
+    "prerequisite_raw": "Any racial trait or feat that grants a d20 reroll, character level 5th",
+    "special_raw": "When escaping tight spots, you defy the odds",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Any racial trait or feat that grants a d20 reroll"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 5th"
+      }
+    ],
+    "id": "feats.spot_of_luck"
+  },
+  {
+    "raw_name": "Spring Attack*",
+    "name": "Spring Attack",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Spring Attack",
+    "prerequisite_raw": "Dex 15, Mobility, base attack bonus +4",
+    "special_raw": "Move before and after a melee attack",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Dex",
+        "score": "15"
+      },
+      {
+        "type": "feat",
+        "name": "Mobility"
+      },
+      {
+        "type": "base_attack_bonus",
+        "bonus": "4"
+      }
+    ],
+    "id": "feats.spring_attack"
+  },
+  {
+    "raw_name": "Spry Cover*",
+    "name": "Spry Cover",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Spry Cover",
+    "prerequisite_raw": "Base attack bonus +1",
+    "special_raw": "Covering fire grants a +4 bonus to an ally’s Acrobatics check to tumble",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "1"
+      }
+    ],
+    "id": "feats.spry_cover"
+  },
+  {
+    "raw_name": "Squox Companion",
+    "name": "Squox Companion",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Squox Companion",
+    "prerequisite_raw": "You own a trained squox that has an attitude of friendly or helpful toward you",
+    "special_raw": "Your pet squox aids you to the best of its ability",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "You own a trained squox that has an attitude of friendly or helpful toward you"
+      }
+    ],
+    "id": "feats.squox_companion"
+  },
+  {
+    "raw_name": "Stage Magic",
+    "name": "Stage Magic",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Stage Magic",
+    "prerequisite_raw": "Cha 13, Minor Stage Magic, character level 4th",
+    "special_raw": "Gain a 1st-level spell-like ability",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Cha",
+        "score": "13"
+      },
+      {
+        "type": "feat",
+        "name": "Minor Stage Magic"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 4th"
+      }
+    ],
+    "id": "feats.stage_magic"
+  },
+  {
+    "raw_name": "Stand Still*",
+    "name": "Stand Still",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Stand Still",
+    "prerequisite_raw": "—",
+    "special_raw": "Make an attack of opportunity to stop a foe’s movement",
+    "prerequisites": [],
+    "id": "feats.stand_still"
+  },
+  {
+    "raw_name": "Startled Scream",
+    "name": "Startled Scream",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Startled Scream",
+    "prerequisite_raw": "—",
+    "special_raw": "When something bad is about to go down, you scream to let everyone know.",
+    "prerequisites": [],
+    "id": "feats.startled_scream"
+  },
+  {
+    "raw_name": "Steel Nerves",
+    "name": "Steel Nerves",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Steel Nerves",
+    "prerequisite_raw": "Wis 13, character level 3rd",
+    "special_raw": "You retain your reason when you’re scared.",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Wis",
+        "score": "13"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 3rd"
+      }
+    ],
+    "id": "feats.steel_nerves"
+  },
+  {
+    "raw_name": "Step Up*",
+    "name": "Step Up",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Step Up",
+    "prerequisite_raw": "Base attack bonus +1",
+    "special_raw": "Take a guarded step as a reaction to an adjacent foe moving",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "1"
+      }
+    ],
+    "id": "feats.step_up"
+  },
+  {
+    "raw_name": "Step Up and Strike*",
+    "name": "Step Up and Strike",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Step Up and Strike",
+    "prerequisite_raw": "Dex 13, Step Up, base attack bonus +6",
+    "special_raw": "Make an attack of opportunity as part of Step Up",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Dex",
+        "score": "13"
+      },
+      {
+        "type": "feat",
+        "name": "Step Up"
+      },
+      {
+        "type": "base_attack_bonus",
+        "bonus": "6"
+      }
+    ],
+    "id": "feats.step_up_and_strike"
+  },
+  {
+    "raw_name": "Strike Back*",
+    "name": "Strike Back",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Strike Back",
+    "prerequisite_raw": "Base attack bonus +1",
+    "special_raw": "Ready an action to make a melee attack against a foe with reach",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "1"
+      }
+    ],
+    "id": "feats.strike_back"
+  },
+  {
+    "raw_name": "Suppressive Fire*",
+    "name": "Suppressive Fire",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Suppressive Fire",
+    "prerequisite_raw": "Base attack bonus +1, proficiency with heavy weapons",
+    "special_raw": "Provide covering fire or harrying fire in an area",
+    "prerequisites": [
+      {
+        "type": "base_attack_bonus",
+        "bonus": "1"
+      },
+      {
+        "type": "unknown",
+        "raw": "proficiency with heavy weapons"
+      }
+    ],
+    "id": "feats.suppressive_fire"
+  },
+  {
+    "raw_name": "Survivalist",
+    "name": "Survivalist",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Survivalist",
+    "prerequisite_raw": "Self-sufficient racial trait",
+    "special_raw": "You know how to live off the land",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Self-sufficient racial trait"
+      }
+    ],
+    "id": "feats.survivalist"
+  },
+  {
+    "raw_name": "Swimming Master",
+    "name": "Swimming Master",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Swimming Master",
+    "prerequisite_raw": "Athletics 5 ranks",
+    "special_raw": "Gain a swim speed equal to your base speed",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Athletics",
+        "rank": "5"
+      }
+    ],
+    "id": "feats.swimming_master"
+  },
+  {
+    "raw_name": "Tactful Advisor",
+    "name": "Tactful Advisor",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Tactful Advisor",
+    "prerequisite_raw": "Cha 11",
+    "special_raw": "Provide an additional +1 enhancement bonus when your aid another check result is 20 or higher",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Cha",
+        "score": "11"
+      }
+    ],
+    "id": "feats.tactful_advisor"
+  },
+  {
+    "raw_name": "Tailored Serum",
+    "name": "Tailored Serum",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Tailored Serum",
+    "prerequisite_raw": "Life Science 5 ranks",
+    "special_raw": "Grant additional Hit Points to a particular creature with a customized serum of healing",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Life Science",
+        "rank": "5"
+      }
+    ],
+    "id": "feats.tailored_serum"
+  },
+  {
+    "raw_name": "Technomantic Dabbler",
+    "name": "Technomantic Dabbler",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Technomantic Dabbler",
+    "prerequisite_raw": "Intelligence 15, character level 5th, no levels in technomancer",
+    "special_raw": "Gain the ability to cast minor technomancer spells",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Intelligence 15"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 5th"
+      },
+      {
+        "type": "unknown",
+        "raw": "no levels in technomancer"
+      }
+    ],
+    "id": "feats.technomantic_dabbler"
+  },
+  {
+    "raw_name": "Telepathic Scream",
+    "name": "Telepathic Scream",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Telepathic Scream",
+    "prerequisite_raw": "Intimidate 3 ranks; limited telepathy or telepathy",
+    "special_raw": "Create a distressing telepathic scream that causes foes to become shaken",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Intimidate",
+        "rank": "3"
+      }
+    ],
+    "id": "feats.telepathic_scream"
+  },
+  {
+    "raw_name": "Telepathic Spy",
+    "name": "Telepathic Spy",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Telepathic Spy",
+    "prerequisite_raw": "Limited telepathy or telepathy",
+    "special_raw": "Your telepathy is sensitive enough to detect similar psychic communication nearby.",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Limited telepathy or telepathy"
+      }
+    ],
+    "id": "feats.telepathic_spy"
+  },
+  {
+    "raw_name": "Terrifying Presence*",
+    "name": "Terrifying Presence",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Terrifying Presence",
+    "prerequisite_raw": "Intimidating racial trait",
+    "special_raw": "Your fearsome displays instill fear longer",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Intimidating racial trait"
+      }
+    ],
+    "id": "feats.terrifying_presence"
+  },
+  {
+    "raw_name": "Three-Point Stance",
+    "name": "Three-Point Stance",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Three-Point Stance",
+    "prerequisite_raw": "—",
+    "special_raw": "If you have a free hand, you take 1d6 less damage from falling, don’t fall prone from falling, and gain benefits in zero-g maneuvering",
+    "prerequisites": [],
+    "id": "feats.three_point_stance"
+  },
+  {
+    "raw_name": "Through the Lines",
+    "name": "Through the Lines",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Through the Lines",
+    "prerequisite_raw": "Dex 13",
+    "special_raw": "You can charge through one ally’s space",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Dex",
+        "score": "13"
+      }
+    ],
+    "id": "feats.through_the_lines"
+  },
+  {
+    "raw_name": "Tight Fit",
+    "name": "Tight Fit",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Tight Fit",
+    "prerequisite_raw": "Large size or larger",
+    "special_raw": "You are not entangled when squeezing",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Large size or larger"
+      }
+    ],
+    "id": "feats.tight_fit"
+  },
+  {
+    "raw_name": "Toughness",
+    "name": "Toughness",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Toughness",
+    "prerequisite_raw": "—",
+    "special_raw": "+1 Stamina Point per character level and other bonuses",
+    "prerequisites": [],
+    "id": "feats.toughness"
+  },
+  {
+    "raw_name": "Tripping Rush*",
+    "name": "Tripping Rush",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Tripping Rush",
+    "prerequisite_raw": "Improved Combat Maneuver (trip), base attack bonus +5",
+    "special_raw": "Knock a target prone when you bull rush them into an obstacle",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Improved Combat Maneuver (trip)"
+      },
+      {
+        "type": "base_attack_bonus",
+        "bonus": "5"
+      }
+    ],
+    "id": "feats.tripping_rush"
+  },
+  {
+    "raw_name": "Underfoot",
+    "name": "Underfoot",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Underfoot",
+    "prerequisite_raw": "Scurry, Acrobatics 10 ranks, racial bonus to Dexterity, size Small",
+    "special_raw": "You use your small size against larger foes",
+    "prerequisites": [
+      {
+        "type": "feat",
+        "name": "Scurry"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "Acrobatics 1",
+        "rank": "0"
+      },
+      {
+        "type": "unknown",
+        "raw": "racial bonus to Dexterity"
+      },
+      {
+        "type": "unknown",
+        "raw": "size Small"
+      }
+    ],
+    "id": "feats.underfoot"
+  },
+  {
+    "raw_name": "Unfriendly Fire*",
+    "name": "Unfriendly Fire",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Unfriendly Fire",
+    "prerequisite_raw": "Bluff 5 ranks",
+    "special_raw": "Trick an attacker into shooting at another enemy adjacent to you",
+    "prerequisites": [
+      {
+        "type": "skill_rank",
+        "skill": "Bluff",
+        "rank": "5"
+      }
+    ],
+    "id": "feats.unfriendly_fire"
+  },
+  {
+    "raw_name": "Veiled Threat",
+    "name": "Veiled Threat",
+    "is_combat": false,
+    "link": "FeatDisplay.aspx?ItemName=Veiled Threat",
+    "prerequisite_raw": "Cha 15, Intimidate 1 rank",
+    "special_raw": "Intimidated foe doesn’t become hostile",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Cha",
+        "score": "15"
+      },
+      {
+        "type": "skill_rank",
+        "skill": "Intimidate",
+        "rank": "1"
+      }
+    ],
+    "id": "feats.veiled_threat"
+  },
+  {
+    "raw_name": "Versatile Fighting*",
+    "name": "Versatile Fighting",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Versatile Fighting",
+    "prerequisite_raw": "Adaptive Fighting, character level 5",
+    "special_raw": "Spend RP to use Adaptive Fighting more often in a day",
+    "prerequisites": [
+      {
+        "type": "feat",
+        "name": "Adaptive Fighting"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 5"
+      }
+    ],
+    "id": "feats.versatile_fighting"
+  },
+  {
+    "raw_name": "Versatile Focus*",
+    "name": "Versatile Focus",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Versatile Focus",
+    "prerequisite_raw": "Weapon Focus (any)",
+    "special_raw": "+1 bonus to attack rolls with all weapon types you are proficient with",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Weapon Focus (any)"
+      }
+    ],
+    "id": "feats.versatile_focus"
+  },
+  {
+    "raw_name": "Versatile Specialization*",
+    "name": "Versatile Specialization",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Versatile Specialization",
+    "prerequisite_raw": "Weapon Specialization, character level 3rd",
+    "special_raw": "Deal extra damage with all weapon types you are proficient with",
+    "prerequisites": [
+      {
+        "type": "feat",
+        "name": "Weapon Specialization"
+      },
+      {
+        "type": "unknown",
+        "raw": "character level 3rd"
+      }
+    ],
+    "id": "feats.versatile_specialization"
+  },
+  {
+    "raw_name": "Wary Withdrawal*",
+    "name": "Wary Withdrawal",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Wary Withdrawal",
+    "prerequisite_raw": "Dex 13, Wis 13, Mobility",
+    "special_raw": "You know how to withdraw with great caution.",
+    "prerequisites": [
+      {
+        "type": "ability_score_match",
+        "ability": "Dex",
+        "score": "13"
+      },
+      {
+        "type": "ability_score_match",
+        "ability": "Wis",
+        "score": "13"
+      },
+      {
+        "type": "feat",
+        "name": "Mobility"
+      }
+    ],
+    "id": "feats.wary_withdrawal"
+  },
+  {
+    "raw_name": "Weapon Focus*",
+    "name": "Weapon Focus",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Weapon Focus",
+    "prerequisite_raw": "Proficiency with selected weapon type",
+    "special_raw": "+1 bonus to attack rolls with selected weapon type",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Proficiency with selected weapon type"
+      }
+    ],
+    "id": "feats.weapon_focus"
+  },
+  {
+    "raw_name": "Weapon Specialization*",
+    "name": "Weapon Specialization",
+    "is_combat": true,
+    "link": "FeatDisplay.aspx?ItemName=Weapon Specialization",
+    "prerequisite_raw": "Character level 3rd, proficiency with selected weapon type",
+    "special_raw": "Deal extra damage with selected weapon type",
+    "prerequisites": [
+      {
+        "type": "unknown",
+        "raw": "Character level 3rd"
+      },
+      {
+        "type": "unknown",
+        "raw": "proficiency with selected weapon type"
+      }
+    ],
+    "id": "feats.weapon_specialization"
+  }
+]

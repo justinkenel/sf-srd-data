@@ -1,0 +1,74 @@
+[
+  {
+    "name": "fine",
+    "height": "6 in. or less",
+    "weight": "1/8 lb. or less",
+    "space": "1/2 ft.",
+    "reach_tall": "0 ft.",
+    "reach_long": "0 ft."
+  },
+  {
+    "name": "diminutive",
+    "height": "6 in.–1 ft.",
+    "weight": "1/8–1 lb.",
+    "space": "1 ft.",
+    "reach_tall": "0 ft.",
+    "reach_long": "0 ft."
+  },
+  {
+    "name": "tiny",
+    "height": "1–2 ft.",
+    "weight": "1–8 lbs.",
+    "space": "2-1/2 ft.",
+    "reach_tall": "0 ft.",
+    "reach_long": "0 ft."
+  },
+  {
+    "name": "small",
+    "height": "2–4 ft.",
+    "weight": "8–60 lbs.",
+    "space": "5 ft.",
+    "reach_tall": "5 ft.",
+    "reach_long": "5 ft."
+  },
+  {
+    "name": "medium",
+    "height": "4–8 ft.",
+    "weight": "60–500 lbs.",
+    "space": "5 ft.",
+    "reach_tall": "5 ft.",
+    "reach_long": "5 ft."
+  },
+  {
+    "name": "large",
+    "height": "8–16 ft.",
+    "weight": "500 lbs.–2 tons",
+    "space": "10 ft.",
+    "reach_tall": "10 ft.",
+    "reach_long": "5 ft."
+  },
+  {
+    "name": "huge",
+    "height": "16–32 ft.",
+    "weight": "2–16 tons",
+    "space": "15 ft.",
+    "reach_tall": "15 ft.",
+    "reach_long": "10 ft."
+  },
+  {
+    "name": "gargantuan",
+    "height": "32–64 ft.",
+    "weight": "16–125 tons",
+    "space": "20 ft.",
+    "reach_tall": "20 ft.",
+    "reach_long": "15 ft."
+  },
+  {
+    "name": "colossal",
+    "height": "64 ft. or more",
+    "weight": "125 tons or more",
+    "space": "30 ft.3",
+    "reach_tall": "30 ft.",
+    "reach_long": "20 ft."
+  }
+]

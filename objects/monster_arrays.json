@@ -1,0 +1,2285 @@
+[
+  {
+    "type": "combatant",
+    "by_cr": [
+      {
+        "cr": "1/3",
+        "main": {
+          "cr": "1/3",
+          "eac": "10",
+          "kac": "12",
+          "fort": "+1",
+          "ref": "+1",
+          "will": "+0",
+          "hit points": "6",
+          "ability dc": "8",
+          "base spell dc": "8",
+          "ability score modifiers": "+3, +1, +0",
+          "special abilities": "1",
+          "master skills": "+7 (1)",
+          "goood skills": "+3 (2)"
+        },
+        "attack": {
+          "cr": "1/3",
+          "high": "+4",
+          "low": "+1",
+          "energy": "1d4",
+          "kinetic": "1d4",
+          "standard": "1d6+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "1/2",
+        "main": {
+          "cr": "1/2",
+          "eac": "10",
+          "kac": "12",
+          "fort": "+2",
+          "ref": "+2",
+          "will": "+0",
+          "hit points": "13",
+          "ability dc": "9",
+          "base spell dc": "9",
+          "ability score modifiers": "+3, +2, +1",
+          "special abilities": "1",
+          "master skills": "+9 (1)",
+          "goood skills": "+4 (2)"
+        },
+        "attack": {
+          "cr": "1/2",
+          "high": "+6",
+          "low": "+3",
+          "energy": "1d4",
+          "kinetic": "1d6",
+          "standard": "1d6+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "1",
+        "main": {
+          "cr": "1",
+          "eac": "11",
+          "kac": "13",
+          "fort": "+3",
+          "ref": "+3",
+          "will": "+1",
+          "hit points": "20",
+          "ability dc": "10",
+          "base spell dc": "9",
+          "ability score modifiers": "+4, +2, +1",
+          "special abilities": "1",
+          "master skills": "+10 (1)",
+          "goood skills": "+5 (2)"
+        },
+        "attack": {
+          "cr": "1",
+          "high": "+8",
+          "low": "+5",
+          "energy": "1d4+1",
+          "kinetic": "1d6+1",
+          "standard": "1d6+1+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "2",
+        "main": {
+          "cr": "2",
+          "eac": "13",
+          "kac": "15",
+          "fort": "+4",
+          "ref": "+4",
+          "will": "+1",
+          "hit points": "25",
+          "ability dc": "11",
+          "base spell dc": "10",
+          "ability score modifiers": "+4, +2, +1",
+          "special abilities": "2",
+          "master skills": "+12 (1)",
+          "goood skills": "+7 (2)"
+        },
+        "attack": {
+          "cr": "2",
+          "high": "+10",
+          "low": "+7",
+          "energy": "1d4+2",
+          "kinetic": "1d6+2",
+          "standard": "1d6+2+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "3",
+        "main": {
+          "cr": "3",
+          "eac": "14",
+          "kac": "16",
+          "fort": "+5",
+          "ref": "+5",
+          "will": "+2",
+          "hit points": "40",
+          "ability dc": "12",
+          "base spell dc": "11",
+          "ability score modifiers": "+4, +2, +1",
+          "special abilities": "2",
+          "master skills": "+13 (1)",
+          "goood skills": "+8 (2)"
+        },
+        "attack": {
+          "cr": "3",
+          "high": "+11",
+          "low": "+8",
+          "energy": "1d4+3",
+          "kinetic": "1d6+3",
+          "standard": "1d6+3+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "4",
+        "main": {
+          "cr": "4",
+          "eac": "16",
+          "kac": "18",
+          "fort": "+6",
+          "ref": "+6",
+          "will": "+3",
+          "hit points": "50",
+          "ability dc": "13",
+          "base spell dc": "11",
+          "ability score modifiers": "+5, +3, +1",
+          "special abilities": "2",
+          "master skills": "+15 (1)",
+          "goood skills": "+10 (2)"
+        },
+        "attack": {
+          "cr": "4",
+          "high": "+12",
+          "low": "+9",
+          "energy": "1d4+4",
+          "kinetic": "1d6+4",
+          "standard": "1d6+4+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "5",
+        "main": {
+          "cr": "5",
+          "eac": "17",
+          "kac": "19",
+          "fort": "+7",
+          "ref": "+7",
+          "will": "+4",
+          "hit points": "70",
+          "ability dc": "13",
+          "base spell dc": "11",
+          "ability score modifiers": "+5, +3, +2",
+          "special abilities": "2",
+          "master skills": "+16 (1)",
+          "goood skills": "+11 (2)"
+        },
+        "attack": {
+          "cr": "5",
+          "high": "+14",
+          "low": "+11",
+          "energy": "1d6+5",
+          "kinetic": "1d8+5",
+          "standard": "1d6+5+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "6",
+        "main": {
+          "cr": "6",
+          "eac": "18",
+          "kac": "20",
+          "fort": "+8",
+          "ref": "+8",
+          "will": "+5",
+          "hit points": "90",
+          "ability dc": "14",
+          "base spell dc": "12",
+          "ability score modifiers": "+5, +3, +2",
+          "special abilities": "2",
+          "master skills": "+18 (1)",
+          "goood skills": "+13 (2)"
+        },
+        "attack": {
+          "cr": "6",
+          "high": "+16",
+          "low": "+13",
+          "energy": "1d10+6",
+          "kinetic": "2d6+6",
+          "standard": "1d8+6+str",
+          "three attacks": "1d4+6+str",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "7",
+        "main": {
+          "cr": "7",
+          "eac": "19",
+          "kac": "21",
+          "fort": "+9",
+          "ref": "+9",
+          "will": "+6",
+          "hit points": "105",
+          "ability dc": "15",
+          "base spell dc": "13",
+          "ability score modifiers": "+5, +4, +2",
+          "special abilities": "2",
+          "master skills": "+19 (1)",
+          "goood skills": "+14 (2)"
+        },
+        "attack": {
+          "cr": "7",
+          "high": "+17",
+          "low": "+14",
+          "energy": "2d6+7",
+          "kinetic": "2d8+7",
+          "standard": "2d6+7+str",
+          "three attacks": "1d8+7+str",
+          "four attacks": "1d6+7+str"
+        }
+      },
+      {
+        "cr": "8",
+        "main": {
+          "cr": "8",
+          "eac": "20",
+          "kac": "22",
+          "fort": "+10",
+          "ref": "+10",
+          "will": "+7",
+          "hit points": "125",
+          "ability dc": "16",
+          "base spell dc": "13",
+          "ability score modifiers": "+6, +4, +2",
+          "special abilities": "2",
+          "master skills": "+21 (1)",
+          "goood skills": "+16 (2)"
+        },
+        "attack": {
+          "cr": "8",
+          "high": "+19",
+          "low": "+16",
+          "energy": "2d8+8",
+          "kinetic": "3d6+8",
+          "standard": "3d4+8+str",
+          "three attacks": "1d10+8+str",
+          "four attacks": "1d6+8+str"
+        }
+      },
+      {
+        "cr": "9",
+        "main": {
+          "cr": "9",
+          "eac": "22",
+          "kac": "24",
+          "fort": "+11",
+          "ref": "+11",
+          "will": "+8",
+          "hit points": "145",
+          "ability dc": "16",
+          "base spell dc": "13",
+          "ability score modifiers": "+6, +4, +3",
+          "special abilities": "2",
+          "master skills": "+22 (1)",
+          "goood skills": "+17 (2)"
+        },
+        "attack": {
+          "cr": "9",
+          "high": "+21",
+          "low": "+18",
+          "energy": "3d6+9",
+          "kinetic": "5d4+9",
+          "standard": "2d10+9+str",
+          "three attacks": "2d6+9+str",
+          "four attacks": "1d10+9+str"
+        }
+      },
+      {
+        "cr": "10",
+        "main": {
+          "cr": "10",
+          "eac": "23",
+          "kac": "25",
+          "fort": "+12",
+          "ref": "+12",
+          "will": "+9",
+          "hit points": "165",
+          "ability dc": "17",
+          "base spell dc": "14",
+          "ability score modifiers": "+8, +5, +3",
+          "special abilities": "2",
+          "master skills": "+24 (1)",
+          "goood skills": "+19 (2)"
+        },
+        "attack": {
+          "cr": "10",
+          "high": "+22",
+          "low": "+19",
+          "energy": "2d10+10",
+          "kinetic": "4d6+10",
+          "standard": "2d10+10+str",
+          "three attacks": "3d4+10+str",
+          "four attacks": "1d10+10+str"
+        }
+      },
+      {
+        "cr": "11",
+        "main": {
+          "cr": "11",
+          "eac": "24",
+          "kac": "26",
+          "fort": "+13",
+          "ref": "+13",
+          "will": "+10",
+          "hit points": "180",
+          "ability dc": "18",
+          "base spell dc": "14",
+          "ability score modifiers": "+8, +5, +3",
+          "special abilities": "2",
+          "master skills": "+25 (1)",
+          "goood skills": "+20 (2)"
+        },
+        "attack": {
+          "cr": "11",
+          "high": "+23",
+          "low": "+20",
+          "energy": "3d8+11",
+          "kinetic": "3d10+11",
+          "standard": "4d6+11+str",
+          "three attacks": "2d8+11+str",
+          "four attacks": "2d6+11+str"
+        }
+      },
+      {
+        "cr": "12",
+        "main": {
+          "cr": "12",
+          "eac": "26",
+          "kac": "28",
+          "fort": "+14",
+          "ref": "+14",
+          "will": "+11",
+          "hit points": "200",
+          "ability dc": "19",
+          "base spell dc": "15",
+          "ability score modifiers": "+8, +5, +4",
+          "special abilities": "3",
+          "master skills": "+27 (1)",
+          "goood skills": "+22 (2)"
+        },
+        "attack": {
+          "cr": "12",
+          "high": "+25",
+          "low": "+22",
+          "energy": "6d4+12",
+          "kinetic": "4d8+12",
+          "standard": "6d4+12+str",
+          "three attacks": "3d6+12+str",
+          "four attacks": "3d4+12+str"
+        }
+      },
+      {
+        "cr": "13",
+        "main": {
+          "cr": "13",
+          "eac": "27",
+          "kac": "29",
+          "fort": "+15",
+          "ref": "+15",
+          "will": "+12",
+          "hit points": "225",
+          "ability dc": "19",
+          "base spell dc": "15",
+          "ability score modifiers": "+8, +6, +4",
+          "special abilities": "3",
+          "master skills": "+28 (1)",
+          "goood skills": "+23 (2)"
+        },
+        "attack": {
+          "cr": "13",
+          "high": "+26",
+          "low": "+23",
+          "energy": "5d6+13",
+          "kinetic": "6d6+13",
+          "standard": "3d12+13+str",
+          "three attacks": "2d12+13+str",
+          "four attacks": "2d8+13+str"
+        }
+      },
+      {
+        "cr": "14",
+        "main": {
+          "cr": "14",
+          "eac": "28",
+          "kac": "30",
+          "fort": "+16",
+          "ref": "+16",
+          "will": "+12",
+          "hit points": "250",
+          "ability dc": "20",
+          "base spell dc": "15",
+          "ability score modifiers": "+8, +6, +4",
+          "special abilities": "3",
+          "master skills": "+30 (1)",
+          "goood skills": "+25 (2)"
+        },
+        "attack": {
+          "cr": "14",
+          "high": "+27",
+          "low": "+24",
+          "energy": "3d12+14",
+          "kinetic": "5d10+14",
+          "standard": "8d6+14+str",
+          "three attacks": "4d8+14+str",
+          "four attacks": "4d6+14+str"
+        }
+      },
+      {
+        "cr": "15",
+        "main": {
+          "cr": "15",
+          "eac": "29",
+          "kac": "31",
+          "fort": "+17",
+          "ref": "+17",
+          "will": "+13",
+          "hit points": "275",
+          "ability dc": "21",
+          "base spell dc": "16",
+          "ability score modifiers": "+9, +7, +5",
+          "special abilities": "3",
+          "master skills": "+31 (1)",
+          "goood skills": "+26 (2)"
+        },
+        "attack": {
+          "cr": "15",
+          "high": "+28",
+          "low": "+25",
+          "energy": "5d8+15",
+          "kinetic": "8d6+15",
+          "standard": "8d6+15+str",
+          "three attacks": "3d12+15+str",
+          "four attacks": "6d4+15+str"
+        }
+      },
+      {
+        "cr": "16",
+        "main": {
+          "cr": "16",
+          "eac": "30",
+          "kac": "32",
+          "fort": "+18",
+          "ref": "+18",
+          "will": "+14",
+          "hit points": "300",
+          "ability dc": "22",
+          "base spell dc": "16",
+          "ability score modifiers": "+10, +7, +5",
+          "special abilities": "3",
+          "master skills": "+33 (1)",
+          "goood skills": "+28 (2)"
+        },
+        "attack": {
+          "cr": "16",
+          "high": "+30",
+          "low": "+27",
+          "energy": "7d6+16",
+          "kinetic": "6d10+16",
+          "standard": "6d10+16+str",
+          "three attacks": "5d8+16+str",
+          "four attacks": "3d10+16+str"
+        }
+      },
+      {
+        "cr": "17",
+        "main": {
+          "cr": "17",
+          "eac": "31",
+          "kac": "33",
+          "fort": "+19",
+          "ref": "+19",
+          "will": "+15",
+          "hit points": "340",
+          "ability dc": "22",
+          "base spell dc": "16",
+          "ability score modifiers": "+11, +8, +5",
+          "special abilities": "3",
+          "master skills": "+34 (1)",
+          "goood skills": "+29 (2)"
+        },
+        "attack": {
+          "cr": "17",
+          "high": "+31",
+          "low": "+28",
+          "energy": "8d6+17",
+          "kinetic": "6d12+17",
+          "standard": "6d12+17+str",
+          "three attacks": "4d12+17+str",
+          "four attacks": "3d12+17+str"
+        }
+      },
+      {
+        "cr": "18",
+        "main": {
+          "cr": "18",
+          "eac": "32",
+          "kac": "34",
+          "fort": "+19",
+          "ref": "+19",
+          "will": "+16",
+          "hit points": "375",
+          "ability dc": "23",
+          "base spell dc": "17",
+          "ability score modifiers": "+11, +8, +6",
+          "special abilities": "4",
+          "master skills": "+36 (1)",
+          "goood skills": "+31 (2)"
+        },
+        "attack": {
+          "cr": "18",
+          "high": "+32",
+          "low": "+29",
+          "energy": "6d10+18",
+          "kinetic": "8d10+18",
+          "standard": "13d6+18+str",
+          "three attacks": "8d6+18+str",
+          "four attacks": "5d8+18+str"
+        }
+      },
+      {
+        "cr": "19",
+        "main": {
+          "cr": "19",
+          "eac": "33",
+          "kac": "35",
+          "fort": "+20",
+          "ref": "+20",
+          "will": "+16",
+          "hit points": "415",
+          "ability dc": "24",
+          "base spell dc": "18",
+          "ability score modifiers": "+11, +9, +6",
+          "special abilities": "4",
+          "master skills": "+37 (1)",
+          "goood skills": "+32 (2)"
+        },
+        "attack": {
+          "cr": "19",
+          "high": "+33",
+          "low": "+30",
+          "energy": "8d8+19",
+          "kinetic": "9d10+19",
+          "standard": "15d6+19+str",
+          "three attacks": "6d10+19+str",
+          "four attacks": "4d12+19+str"
+        }
+      },
+      {
+        "cr": "20",
+        "main": {
+          "cr": "20",
+          "eac": "35",
+          "kac": "37",
+          "fort": "+21",
+          "ref": "+21",
+          "will": "+17",
+          "hit points": "465",
+          "ability dc": "25",
+          "base spell dc": "19",
+          "ability score modifiers": "+12, +9, +6",
+          "special abilities": "4",
+          "master skills": "+39 (1)",
+          "goood skills": "+34 (2)"
+        },
+        "attack": {
+          "cr": "20",
+          "high": "+34",
+          "low": "+31",
+          "energy": "12d6+20",
+          "kinetic": "16d6+20",
+          "standard": "11d10+20+str",
+          "three attacks": "6d12+20+str",
+          "four attacks": "8d6+20+str"
+        }
+      },
+      {
+        "cr": "21",
+        "main": {
+          "cr": "21",
+          "eac": "36",
+          "kac": "38",
+          "fort": "+22",
+          "ref": "+22",
+          "will": "+18",
+          "hit points": "500",
+          "ability dc": "25",
+          "base spell dc": "19",
+          "ability score modifiers": "+12, +10, +7",
+          "special abilities": "4",
+          "master skills": "+40 (1)",
+          "goood skills": "+35 (2)"
+        },
+        "attack": {
+          "cr": "21",
+          "high": "+35",
+          "low": "+32",
+          "energy": "13d6+21",
+          "kinetic": "18d6+21",
+          "standard": "12d10+21+str",
+          "three attacks": "8d10+21+str",
+          "four attacks": "6d10+21+str"
+        }
+      },
+      {
+        "cr": "22",
+        "main": {
+          "cr": "22",
+          "eac": "38",
+          "kac": "40",
+          "fort": "+22",
+          "ref": "+22",
+          "will": "+18",
+          "hit points": "550",
+          "ability dc": "26",
+          "base spell dc": "20",
+          "ability score modifiers": "+13, +10, +7",
+          "special abilities": "4",
+          "master skills": "+42 (1)",
+          "goood skills": "+37 (2)"
+        },
+        "attack": {
+          "cr": "22",
+          "high": "+36",
+          "low": "+33",
+          "energy": "12d8+22",
+          "kinetic": "20d6+22",
+          "standard": "21d6+22+str",
+          "three attacks": "9d10+22+str",
+          "four attacks": "8d8+22+str"
+        }
+      },
+      {
+        "cr": "23",
+        "main": {
+          "cr": "23",
+          "eac": "39",
+          "kac": "41",
+          "fort": "+23",
+          "ref": "+23",
+          "will": "+19",
+          "hit points": "600",
+          "ability dc": "27",
+          "base spell dc": "21",
+          "ability score modifiers": "+13, +11, +7",
+          "special abilities": "4",
+          "master skills": "+43 (1)",
+          "goood skills": "+38 (2)"
+        },
+        "attack": {
+          "cr": "23",
+          "high": "+37",
+          "low": "+34",
+          "energy": "17d6+23",
+          "kinetic": "14d10+23",
+          "standard": "24d6+23+str",
+          "three attacks": "10d10+23+str",
+          "four attacks": "12d6+23+str"
+        }
+      },
+      {
+        "cr": "24",
+        "main": {
+          "cr": "24",
+          "eac": "41",
+          "kac": "43",
+          "fort": "+24",
+          "ref": "+24",
+          "will": "+20",
+          "hit points": "650",
+          "ability dc": "28",
+          "base spell dc": "22",
+          "ability score modifiers": "+15, +11, +8",
+          "special abilities": "4",
+          "master skills": "+45 (1)",
+          "goood skills": "+40 (2)"
+        },
+        "attack": {
+          "cr": "24",
+          "high": "+39",
+          "low": "+36",
+          "energy": "10d12+24",
+          "kinetic": "19d8+24",
+          "standard": "14d12+24+str",
+          "three attacks": "11d10+24+str",
+          "four attacks": "13d6+24+str"
+        }
+      },
+      {
+        "cr": "25",
+        "main": {
+          "cr": "25",
+          "eac": "42",
+          "kac": "44",
+          "fort": "+25",
+          "ref": "+25",
+          "will": "+21",
+          "hit points": "700",
+          "ability dc": "28",
+          "base spell dc": "22",
+          "ability score modifiers": "+15, +12, +8",
+          "special abilities": "4",
+          "master skills": "+46 (1)",
+          "goood skills": "+41 (2)"
+        },
+        "attack": {
+          "cr": "25",
+          "high": "+40",
+          "low": "+37",
+          "energy": "13d10+25",
+          "kinetic": "14d12+25",
+          "standard": "18d10+25+str",
+          "three attacks": "12d10+25+str",
+          "four attacks": "9d10+25+str"
+        }
+      }
+    ]
+  },
+  {
+    "type": "expert",
+    "by_cr": [
+      {
+        "cr": "1/3",
+        "main": {
+          "cr": "1/3",
+          "eac": "10",
+          "kac": "11",
+          "fort": "+0",
+          "ref": "+0",
+          "will": "+2",
+          "hit points": "6",
+          "ability dc": "10",
+          "base spell dc": "10",
+          "ability score modifiers": "+3, +1, +0",
+          "special abilities": "1",
+          "master skills": "+7 (3)",
+          "goood skills": "+3 (2)"
+        },
+        "attack": {
+          "cr": "1/3",
+          "high": "+2",
+          "low": "+0",
+          "energy": "1d4",
+          "kinetic": "1d4",
+          "standard": "1d4+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "1/2",
+        "main": {
+          "cr": "1/2",
+          "eac": "10",
+          "kac": "11",
+          "fort": "+0",
+          "ref": "+0",
+          "will": "+3",
+          "hit points": "12",
+          "ability dc": "11",
+          "base spell dc": "11",
+          "ability score modifiers": "+3, +2, +1",
+          "special abilities": "1",
+          "master skills": "+9 (3)",
+          "goood skills": "+4 (2)"
+        },
+        "attack": {
+          "cr": "1/2",
+          "high": "+4",
+          "low": "+2",
+          "energy": "1d4",
+          "kinetic": "1d4",
+          "standard": "1d4+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "1",
+        "main": {
+          "cr": "1",
+          "eac": "11",
+          "kac": "12",
+          "fort": "+1",
+          "ref": "+1",
+          "will": "+4",
+          "hit points": "17",
+          "ability dc": "12",
+          "base spell dc": "11",
+          "ability score modifiers": "+4, +2, +1",
+          "special abilities": "1",
+          "master skills": "+10 (3)",
+          "goood skills": "+5 (2)"
+        },
+        "attack": {
+          "cr": "1",
+          "high": "+6",
+          "low": "+4",
+          "energy": "1d4+1",
+          "kinetic": "1d4+1",
+          "standard": "1d4+1+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "2",
+        "main": {
+          "cr": "2",
+          "eac": "13",
+          "kac": "14",
+          "fort": "+1",
+          "ref": "+1",
+          "will": "+5",
+          "hit points": "23",
+          "ability dc": "13",
+          "base spell dc": "12",
+          "ability score modifiers": "+4, +2, +1",
+          "special abilities": "1",
+          "master skills": "+12 (3)",
+          "goood skills": "+7 (2)"
+        },
+        "attack": {
+          "cr": "2",
+          "high": "+8",
+          "low": "+6",
+          "energy": "1d4+2",
+          "kinetic": "1d4+2",
+          "standard": "1d4+2+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "3",
+        "main": {
+          "cr": "3",
+          "eac": "14",
+          "kac": "15",
+          "fort": "+2",
+          "ref": "+2",
+          "will": "+6",
+          "hit points": "35",
+          "ability dc": "14",
+          "base spell dc": "13",
+          "ability score modifiers": "+4, +2, +1",
+          "special abilities": "2",
+          "master skills": "+13 (3)",
+          "goood skills": "+8 (2)"
+        },
+        "attack": {
+          "cr": "3",
+          "high": "+9",
+          "low": "+7",
+          "energy": "1d4+3",
+          "kinetic": "1d4+3",
+          "standard": "1d4+3+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "4",
+        "main": {
+          "cr": "4",
+          "eac": "16",
+          "kac": "17",
+          "fort": "+3",
+          "ref": "+3",
+          "will": "+7",
+          "hit points": "45",
+          "ability dc": "15",
+          "base spell dc": "13",
+          "ability score modifiers": "+5, +3, +1",
+          "special abilities": "2",
+          "master skills": "+15 (3)",
+          "goood skills": "+10 (2)"
+        },
+        "attack": {
+          "cr": "4",
+          "high": "+10",
+          "low": "+8",
+          "energy": "1d4+4",
+          "kinetic": "1d4+4",
+          "standard": "1d4+4+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "5",
+        "main": {
+          "cr": "5",
+          "eac": "17",
+          "kac": "18",
+          "fort": "+4",
+          "ref": "+4",
+          "will": "+8",
+          "hit points": "65",
+          "ability dc": "15",
+          "base spell dc": "13",
+          "ability score modifiers": "+5, +3, +2",
+          "special abilities": "2",
+          "master skills": "+16 (3)",
+          "goood skills": "+11 (2)"
+        },
+        "attack": {
+          "cr": "5",
+          "high": "+12",
+          "low": "+10",
+          "energy": "1d4+5",
+          "kinetic": "1d6+5",
+          "standard": "1d4+5+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "6",
+        "main": {
+          "cr": "6",
+          "eac": "18",
+          "kac": "19",
+          "fort": "+5",
+          "ref": "+5",
+          "will": "+9",
+          "hit points": "80",
+          "ability dc": "16",
+          "base spell dc": "14",
+          "ability score modifiers": "+5, +3, +2",
+          "special abilities": "2",
+          "master skills": "+18 (3)",
+          "goood skills": "+13 (2)"
+        },
+        "attack": {
+          "cr": "6",
+          "high": "+14",
+          "low": "+12",
+          "energy": "1d6+6",
+          "kinetic": "1d8+6",
+          "standard": "1d6+6+str",
+          "three attacks": "1d4+6+str",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "7",
+        "main": {
+          "cr": "7",
+          "eac": "19",
+          "kac": "20",
+          "fort": "+6",
+          "ref": "+6",
+          "will": "+10",
+          "hit points": "100",
+          "ability dc": "17",
+          "base spell dc": "15",
+          "ability score modifiers": "+5, +4, +2",
+          "special abilities": "2",
+          "master skills": "+19 (3)",
+          "goood skills": "+14 (2)"
+        },
+        "attack": {
+          "cr": "7",
+          "high": "+15",
+          "low": "+13",
+          "energy": "1d8+7",
+          "kinetic": "1d12+7",
+          "standard": "1d8+7+str",
+          "three attacks": "1d4+7+str",
+          "four attacks": "1d4+7+str"
+        }
+      },
+      {
+        "cr": "8",
+        "main": {
+          "cr": "8",
+          "eac": "20",
+          "kac": "21",
+          "fort": "+7",
+          "ref": "+7",
+          "will": "+11",
+          "hit points": "115",
+          "ability dc": "18",
+          "base spell dc": "15",
+          "ability score modifiers": "+6, +4, +2",
+          "special abilities": "2",
+          "master skills": "+21 (3)",
+          "goood skills": "+16 (2)"
+        },
+        "attack": {
+          "cr": "8",
+          "high": "+17",
+          "low": "+15",
+          "energy": "1d10+8",
+          "kinetic": "2d6+8",
+          "standard": "1d12+8+str",
+          "three attacks": "1d8+8+str",
+          "four attacks": "1d4+8+str"
+        }
+      },
+      {
+        "cr": "9",
+        "main": {
+          "cr": "9",
+          "eac": "22",
+          "kac": "23",
+          "fort": "+8",
+          "ref": "+8",
+          "will": "+12",
+          "hit points": "135",
+          "ability dc": "18",
+          "base spell dc": "15",
+          "ability score modifiers": "+6, +4, +3",
+          "special abilities": "2",
+          "master skills": "+22 (3)",
+          "goood skills": "+17 (2)"
+        },
+        "attack": {
+          "cr": "9",
+          "high": "+19",
+          "low": "+17",
+          "energy": "2d6+9",
+          "kinetic": "2d8+9",
+          "standard": "3d4+9+str",
+          "three attacks": "1d10+9+str",
+          "four attacks": "1d6+9+str"
+        }
+      },
+      {
+        "cr": "10",
+        "main": {
+          "cr": "10",
+          "eac": "23",
+          "kac": "24",
+          "fort": "+9",
+          "ref": "+9",
+          "will": "+13",
+          "hit points": "150",
+          "ability dc": "19",
+          "base spell dc": "16",
+          "ability score modifiers": "+8, +5, +3",
+          "special abilities": "2",
+          "master skills": "+24 (3)",
+          "goood skills": "+19 (2)"
+        },
+        "attack": {
+          "cr": "10",
+          "high": "+20",
+          "low": "+18",
+          "energy": "3d4+10",
+          "kinetic": "2d8+10",
+          "standard": "2d8+10+str",
+          "three attacks": "1d10+10+str",
+          "four attacks": "1d8+10+str"
+        }
+      },
+      {
+        "cr": "11",
+        "main": {
+          "cr": "11",
+          "eac": "24",
+          "kac": "25",
+          "fort": "+10",
+          "ref": "+10",
+          "will": "+14",
+          "hit points": "170",
+          "ability dc": "20",
+          "base spell dc": "16",
+          "ability score modifiers": "+8, +5, +3",
+          "special abilities": "2",
+          "master skills": "+25 (3)",
+          "goood skills": "+20 (2)"
+        },
+        "attack": {
+          "cr": "11",
+          "high": "+21",
+          "low": "+19",
+          "energy": "2d8+11",
+          "kinetic": "2d10+11",
+          "standard": "2d10+11+str",
+          "three attacks": "3d4+11+str",
+          "four attacks": "1d10+11+str"
+        }
+      },
+      {
+        "cr": "12",
+        "main": {
+          "cr": "12",
+          "eac": "26",
+          "kac": "27",
+          "fort": "+11",
+          "ref": "+11",
+          "will": "+15",
+          "hit points": "185",
+          "ability dc": "21",
+          "base spell dc": "17",
+          "ability score modifiers": "+8, +5, +4",
+          "special abilities": "3",
+          "master skills": "+27 (3)",
+          "goood skills": "+22 (2)"
+        },
+        "attack": {
+          "cr": "12",
+          "high": "+23",
+          "low": "+21",
+          "energy": "2d8+12",
+          "kinetic": "2d10+12",
+          "standard": "2d12+12+str",
+          "three attacks": "3d4+12+str",
+          "four attacks": "1d12+12+str"
+        }
+      },
+      {
+        "cr": "13",
+        "main": {
+          "cr": "13",
+          "eac": "27",
+          "kac": "28",
+          "fort": "+12",
+          "ref": "+12",
+          "will": "+16",
+          "hit points": "210",
+          "ability dc": "21",
+          "base spell dc": "17",
+          "ability score modifiers": "+8, +6, +4",
+          "special abilities": "3",
+          "master skills": "+28 (3)",
+          "goood skills": "+23 (2)"
+        },
+        "attack": {
+          "cr": "13",
+          "high": "+24",
+          "low": "+22",
+          "energy": "2d10+13",
+          "kinetic": "4d6+13",
+          "standard": "6d4+13+str",
+          "three attacks": "3d6+13+str",
+          "four attacks": "3d4+13+str"
+        }
+      },
+      {
+        "cr": "14",
+        "main": {
+          "cr": "14",
+          "eac": "28",
+          "kac": "29",
+          "fort": "+12",
+          "ref": "+12",
+          "will": "+17",
+          "hit points": "235",
+          "ability dc": "22",
+          "base spell dc": "17",
+          "ability score modifiers": "+8, +6, +4",
+          "special abilities": "3",
+          "master skills": "+30 (3)",
+          "goood skills": "+25 (2)"
+        },
+        "attack": {
+          "cr": "14",
+          "high": "+25",
+          "low": "+23",
+          "energy": "5d4+14",
+          "kinetic": "4d8+14",
+          "standard": "6d6+14+str",
+          "three attacks": "4d6+14+str",
+          "four attacks": "3d6+14+str"
+        }
+      },
+      {
+        "cr": "15",
+        "main": {
+          "cr": "15",
+          "eac": "29",
+          "kac": "30",
+          "fort": "+13",
+          "ref": "+13",
+          "will": "+18",
+          "hit points": "255",
+          "ability dc": "23",
+          "base spell dc": "18",
+          "ability score modifiers": "+9, +7, +5",
+          "special abilities": "3",
+          "master skills": "+31 (3)",
+          "goood skills": "+26 (2)"
+        },
+        "attack": {
+          "cr": "15",
+          "high": "+26",
+          "low": "+24",
+          "energy": "4d6+15",
+          "kinetic": "6d6+15",
+          "standard": "5d8+15+str",
+          "three attacks": "6d4+15+str",
+          "four attacks": "2d10+15+str"
+        }
+      },
+      {
+        "cr": "16",
+        "main": {
+          "cr": "16",
+          "eac": "30",
+          "kac": "31",
+          "fort": "+14",
+          "ref": "+14",
+          "will": "+19",
+          "hit points": "280",
+          "ability dc": "24",
+          "base spell dc": "18",
+          "ability score modifiers": "+10, +7, +5",
+          "special abilities": "3",
+          "master skills": "+33 (3)",
+          "goood skills": "+28 (2)"
+        },
+        "attack": {
+          "cr": "16",
+          "high": "+28",
+          "low": "+26",
+          "energy": "6d4+16",
+          "kinetic": "5d8+16",
+          "standard": "6d8+16+str",
+          "three attacks": "4d8+16+str",
+          "four attacks": "3d8+16+str"
+        }
+      },
+      {
+        "cr": "17",
+        "main": {
+          "cr": "17",
+          "eac": "31",
+          "kac": "32",
+          "fort": "+15",
+          "ref": "+15",
+          "will": "+20",
+          "hit points": "315",
+          "ability dc": "24",
+          "base spell dc": "18",
+          "ability score modifiers": "+11, +8, +5",
+          "special abilities": "3",
+          "master skills": "+34 (3)",
+          "goood skills": "+29 (2)"
+        },
+        "attack": {
+          "cr": "17",
+          "high": "+29",
+          "low": "+27",
+          "energy": "4d8+17",
+          "kinetic": "4d12+17",
+          "standard": "8d6+17+str",
+          "three attacks": "3d12+17+str",
+          "four attacks": "6d4+17+str"
+        }
+      },
+      {
+        "cr": "18",
+        "main": {
+          "cr": "18",
+          "eac": "32",
+          "kac": "33",
+          "fort": "+16",
+          "ref": "+16",
+          "will": "+20",
+          "hit points": "350",
+          "ability dc": "25",
+          "base spell dc": "19",
+          "ability score modifiers": "+11, +8, +6",
+          "special abilities": "3",
+          "master skills": "+36 (3)",
+          "goood skills": "+31 (2)"
+        },
+        "attack": {
+          "cr": "18",
+          "high": "+30",
+          "low": "+28",
+          "energy": "3d12+18",
+          "kinetic": "8d6+18",
+          "standard": "8d8+18+str",
+          "three attacks": "5d8+18+str",
+          "four attacks": "4d8+18+str"
+        }
+      },
+      {
+        "cr": "19",
+        "main": {
+          "cr": "19",
+          "eac": "33",
+          "kac": "34",
+          "fort": "+16",
+          "ref": "+16",
+          "will": "+21",
+          "hit points": "385",
+          "ability dc": "26",
+          "base spell dc": "20",
+          "ability score modifiers": "+11, +9, +6",
+          "special abilities": "4",
+          "master skills": "+37 (3)",
+          "goood skills": "+32 (2)"
+        },
+        "attack": {
+          "cr": "19",
+          "high": "+31",
+          "low": "+29",
+          "energy": "5d8+19",
+          "kinetic": "6d10+19",
+          "standard": "9d8+19+str",
+          "three attacks": "6d8+19+str",
+          "four attacks": "3d12+19+str"
+        }
+      },
+      {
+        "cr": "20",
+        "main": {
+          "cr": "20",
+          "eac": "35",
+          "kac": "36",
+          "fort": "+17",
+          "ref": "+17",
+          "will": "+22",
+          "hit points": "430",
+          "ability dc": "27",
+          "base spell dc": "21",
+          "ability score modifiers": "+12, +9, +6",
+          "special abilities": "4",
+          "master skills": "+39 (3)",
+          "goood skills": "+34 (2)"
+        },
+        "attack": {
+          "cr": "20",
+          "high": "+32",
+          "low": "+30",
+          "energy": "4d12+20",
+          "kinetic": "8d8+20",
+          "standard": "13d6+20+str",
+          "three attacks": "9d6+20+str",
+          "four attacks": "5d8+20+str"
+        }
+      },
+      {
+        "cr": "21",
+        "main": {
+          "cr": "21",
+          "eac": "36",
+          "kac": "37",
+          "fort": "+18",
+          "ref": "+18",
+          "will": "+23",
+          "hit points": "465",
+          "ability dc": "27",
+          "base spell dc": "21",
+          "ability score modifiers": "+12, +10, +7",
+          "special abilities": "4",
+          "master skills": "+40 (3)",
+          "goood skills": "+35 (2)"
+        },
+        "attack": {
+          "cr": "21",
+          "high": "+33",
+          "low": "+31",
+          "energy": "8d6+21",
+          "kinetic": "6d12+21",
+          "standard": "15d6+21+str",
+          "three attacks": "10d6+21+str",
+          "four attacks": "4d12+21+str"
+        }
+      },
+      {
+        "cr": "22",
+        "main": {
+          "cr": "22",
+          "eac": "38",
+          "kac": "39",
+          "fort": "+18",
+          "ref": "+18",
+          "will": "+23",
+          "hit points": "500",
+          "ability dc": "28",
+          "base spell dc": "22",
+          "ability score modifiers": "+13, +10, +7",
+          "special abilities": "4",
+          "master skills": "+42 (3)",
+          "goood skills": "+37 (2)"
+        },
+        "attack": {
+          "cr": "22",
+          "high": "+34",
+          "low": "+32",
+          "energy": "6d10+22",
+          "kinetic": "8d10+22",
+          "standard": "17d6+22+str",
+          "three attacks": "6d12+22+str",
+          "four attacks": "8d6+22+str"
+        }
+      },
+      {
+        "cr": "23",
+        "main": {
+          "cr": "23",
+          "eac": "39",
+          "kac": "40",
+          "fort": "+19",
+          "ref": "+19",
+          "will": "+24",
+          "hit points": "550",
+          "ability dc": "29",
+          "base spell dc": "23",
+          "ability score modifiers": "+13, +11, +7",
+          "special abilities": "4",
+          "master skills": "+43 (3)",
+          "goood skills": "+38 (2)"
+        },
+        "attack": {
+          "cr": "23",
+          "high": "+35",
+          "low": "+33",
+          "energy": "8d8+23",
+          "kinetic": "13d6+23",
+          "standard": "12d10+23+str",
+          "three attacks": "8d10+23+str",
+          "four attacks": "6d10+23+str"
+        }
+      },
+      {
+        "cr": "24",
+        "main": {
+          "cr": "24",
+          "eac": "41",
+          "kac": "42",
+          "fort": "+20",
+          "ref": "+20",
+          "will": "+25",
+          "hit points": "600",
+          "ability dc": "30",
+          "base spell dc": "24",
+          "ability score modifiers": "+15, +11, +8",
+          "special abilities": "4",
+          "master skills": "+45 (3)",
+          "goood skills": "+40 (2)"
+        },
+        "attack": {
+          "cr": "24",
+          "high": "+37",
+          "low": "+35",
+          "energy": "9d8+24",
+          "kinetic": "15d6+24",
+          "standard": "21d6+24+str",
+          "three attacks": "9d10+24+str",
+          "four attacks": "8d8+24+str"
+        }
+      },
+      {
+        "cr": "25",
+        "main": {
+          "cr": "25",
+          "eac": "42",
+          "kac": "43",
+          "fort": "+21",
+          "ref": "+21",
+          "will": "+26",
+          "hit points": "650",
+          "ability dc": "30",
+          "base spell dc": "24",
+          "ability score modifiers": "+15, +12, +8",
+          "special abilities": "4",
+          "master skills": "+46 (3)",
+          "goood skills": "+41 (2)"
+        },
+        "attack": {
+          "cr": "25",
+          "high": "+38",
+          "low": "+36",
+          "energy": "8d10+25",
+          "kinetic": "16d6+25",
+          "standard": "12d12+25+str",
+          "three attacks": "15d6+25+str",
+          "four attacks": "6d12+25+str"
+        }
+      }
+    ]
+  },
+  {
+    "type": "spellcaster",
+    "by_cr": [
+      {
+        "cr": "1/3",
+        "main": {
+          "cr": "1/3",
+          "eac": "9",
+          "kac": "10",
+          "fort": "+0",
+          "ref": "+0",
+          "will": "+2",
+          "hit points": "5",
+          "ability dc": "10",
+          "base spell dc": "12",
+          "ability score modifiers": "+3, +1, +0",
+          "special abilities": "1",
+          "master skills": "+7 (2)",
+          "goood skills": "+3 (1)"
+        },
+        "attack": {
+          "cr": "1/3",
+          "high": "+0",
+          "low": "-2",
+          "energy": "1d4",
+          "kinetic": "1d4",
+          "standard": "1d4+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "1/2",
+        "main": {
+          "cr": "1/2",
+          "eac": "9",
+          "kac": "10",
+          "fort": "+0",
+          "ref": "+0",
+          "will": "+3",
+          "hit points": "11",
+          "ability dc": "11",
+          "base spell dc": "13",
+          "ability score modifiers": "+3, +2, +1",
+          "special abilities": "1",
+          "master skills": "+9 (2)",
+          "goood skills": "+4 (1)"
+        },
+        "attack": {
+          "cr": "1/2",
+          "high": "+2",
+          "low": "+0",
+          "energy": "1d4",
+          "kinetic": "1d4",
+          "standard": "1d4+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "1",
+        "main": {
+          "cr": "1",
+          "eac": "10",
+          "kac": "11",
+          "fort": "+1",
+          "ref": "+1",
+          "will": "+4",
+          "hit points": "16",
+          "ability dc": "12",
+          "base spell dc": "13",
+          "ability score modifiers": "+4, +2, +1",
+          "special abilities": "1",
+          "master skills": "+10 (2)",
+          "goood skills": "+5 (1)"
+        },
+        "attack": {
+          "cr": "1",
+          "high": "+4",
+          "low": "+2",
+          "energy": "1d4+1",
+          "kinetic": "1d4+1",
+          "standard": "1d4+1+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "2",
+        "main": {
+          "cr": "2",
+          "eac": "12",
+          "kac": "13",
+          "fort": "+1",
+          "ref": "+1",
+          "will": "+5",
+          "hit points": "21",
+          "ability dc": "13",
+          "base spell dc": "14",
+          "ability score modifiers": "+4, +2, +1",
+          "special abilities": "2",
+          "master skills": "+12 (2)",
+          "goood skills": "+7 (1)"
+        },
+        "attack": {
+          "cr": "2",
+          "high": "+6",
+          "low": "+4",
+          "energy": "1d4+2",
+          "kinetic": "1d4+2",
+          "standard": "1d4+2+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "3",
+        "main": {
+          "cr": "3",
+          "eac": "13",
+          "kac": "14",
+          "fort": "+2",
+          "ref": "+2",
+          "will": "+6",
+          "hit points": "32",
+          "ability dc": "14",
+          "base spell dc": "15",
+          "ability score modifiers": "+4, +2, +1",
+          "special abilities": "2",
+          "master skills": "+13 (2)",
+          "goood skills": "+8 (1)"
+        },
+        "attack": {
+          "cr": "3",
+          "high": "+7",
+          "low": "+5",
+          "energy": "1d4+3",
+          "kinetic": "1d4+3",
+          "standard": "1d4+3+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "4",
+        "main": {
+          "cr": "4",
+          "eac": "15",
+          "kac": "16",
+          "fort": "+3",
+          "ref": "+3",
+          "will": "+7",
+          "hit points": "43",
+          "ability dc": "15",
+          "base spell dc": "15",
+          "ability score modifiers": "+5, +3, +1",
+          "special abilities": "2",
+          "master skills": "+15 (2)",
+          "goood skills": "+10 (1)"
+        },
+        "attack": {
+          "cr": "4",
+          "high": "+8",
+          "low": "+6",
+          "energy": "1d4+4",
+          "kinetic": "1d4+4",
+          "standard": "1d4+4+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "5",
+        "main": {
+          "cr": "5",
+          "eac": "16",
+          "kac": "17",
+          "fort": "+4",
+          "ref": "+4",
+          "will": "+8",
+          "hit points": "60",
+          "ability dc": "15",
+          "base spell dc": "15",
+          "ability score modifiers": "+5, +3, +2",
+          "special abilities": "2",
+          "master skills": "+16 (2)",
+          "goood skills": "+11 (1)"
+        },
+        "attack": {
+          "cr": "5",
+          "high": "+10",
+          "low": "+8",
+          "energy": "1d4+5",
+          "kinetic": "1d6+5",
+          "standard": "1d4+5+str",
+          "three attacks": "—",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "6",
+        "main": {
+          "cr": "6",
+          "eac": "17",
+          "kac": "18",
+          "fort": "+5",
+          "ref": "+5",
+          "will": "+9",
+          "hit points": "75",
+          "ability dc": "16",
+          "base spell dc": "16",
+          "ability score modifiers": "+5, +3, +2",
+          "special abilities": "2",
+          "master skills": "+18 (2)",
+          "goood skills": "+13 (1)"
+        },
+        "attack": {
+          "cr": "6",
+          "high": "+12",
+          "low": "+10",
+          "energy": "1d6+6",
+          "kinetic": "1d8+6",
+          "standard": "1d6+6+str",
+          "three attacks": "1d4+6+str",
+          "four attacks": "—"
+        }
+      },
+      {
+        "cr": "7",
+        "main": {
+          "cr": "7",
+          "eac": "18",
+          "kac": "19",
+          "fort": "+6",
+          "ref": "+6",
+          "will": "+10",
+          "hit points": "90",
+          "ability dc": "17",
+          "base spell dc": "17",
+          "ability score modifiers": "+5, +4, +2",
+          "special abilities": "2",
+          "master skills": "+19 (2)",
+          "goood skills": "+14 (1)"
+        },
+        "attack": {
+          "cr": "7",
+          "high": "+13",
+          "low": "+11",
+          "energy": "1d8+7",
+          "kinetic": "1d12+7",
+          "standard": "1d8+7+str",
+          "three attacks": "1d4+7+str",
+          "four attacks": "1d4+7+str"
+        }
+      },
+      {
+        "cr": "8",
+        "main": {
+          "cr": "8",
+          "eac": "19",
+          "kac": "20",
+          "fort": "+7",
+          "ref": "+7",
+          "will": "+11",
+          "hit points": "105",
+          "ability dc": "18",
+          "base spell dc": "17",
+          "ability score modifiers": "+6, +4, +2",
+          "special abilities": "2",
+          "master skills": "+21 (2)",
+          "goood skills": "+16 (1)"
+        },
+        "attack": {
+          "cr": "8",
+          "high": "+15",
+          "low": "+13",
+          "energy": "1d10+8",
+          "kinetic": "2d6+8",
+          "standard": "1d12+8+str",
+          "three attacks": "1d8+8+str",
+          "four attacks": "1d4+8+str"
+        }
+      },
+      {
+        "cr": "9",
+        "main": {
+          "cr": "9",
+          "eac": "21",
+          "kac": "22",
+          "fort": "+8",
+          "ref": "+8",
+          "will": "+12",
+          "hit points": "120",
+          "ability dc": "18",
+          "base spell dc": "17",
+          "ability score modifiers": "+6, +4, +3",
+          "special abilities": "2",
+          "master skills": "+22 (2)",
+          "goood skills": "+17 (1)"
+        },
+        "attack": {
+          "cr": "9",
+          "high": "+17",
+          "low": "+15",
+          "energy": "2d6+9",
+          "kinetic": "2d8+9",
+          "standard": "3d4+9+str",
+          "three attacks": "1d10+9+str",
+          "four attacks": "1d6+9+str"
+        }
+      },
+      {
+        "cr": "10",
+        "main": {
+          "cr": "10",
+          "eac": "22",
+          "kac": "23",
+          "fort": "+9",
+          "ref": "+9",
+          "will": "+13",
+          "hit points": "140",
+          "ability dc": "19",
+          "base spell dc": "18",
+          "ability score modifiers": "+8, +5, +3",
+          "special abilities": "2",
+          "master skills": "+24 (2)",
+          "goood skills": "+19 (1)"
+        },
+        "attack": {
+          "cr": "10",
+          "high": "+18",
+          "low": "+16",
+          "energy": "3d4+10",
+          "kinetic": "2d8+10",
+          "standard": "2d8+10+str",
+          "three attacks": "1d10+10+str",
+          "four attacks": "1d8+10+str"
+        }
+      },
+      {
+        "cr": "11",
+        "main": {
+          "cr": "11",
+          "eac": "23",
+          "kac": "24",
+          "fort": "+10",
+          "ref": "+10",
+          "will": "+14",
+          "hit points": "155",
+          "ability dc": "20",
+          "base spell dc": "18",
+          "ability score modifiers": "+8, +5, +3",
+          "special abilities": "2",
+          "master skills": "+25 (2)",
+          "goood skills": "+20 (1)"
+        },
+        "attack": {
+          "cr": "11",
+          "high": "+19",
+          "low": "+17",
+          "energy": "2d8+11",
+          "kinetic": "2d10+11",
+          "standard": "2d10+11+str",
+          "three attacks": "3d4+11+str",
+          "four attacks": "1d10+11+str"
+        }
+      },
+      {
+        "cr": "12",
+        "main": {
+          "cr": "12",
+          "eac": "25",
+          "kac": "26",
+          "fort": "+11",
+          "ref": "+11",
+          "will": "+15",
+          "hit points": "170",
+          "ability dc": "21",
+          "base spell dc": "19",
+          "ability score modifiers": "+8, +5, +4",
+          "special abilities": "3",
+          "master skills": "+27 (2)",
+          "goood skills": "+22 (1)"
+        },
+        "attack": {
+          "cr": "12",
+          "high": "+21",
+          "low": "+19",
+          "energy": "2d8+12",
+          "kinetic": "2d10+12",
+          "standard": "2d12+12+str",
+          "three attacks": "3d4+12+str",
+          "four attacks": "1d12+12+str"
+        }
+      },
+      {
+        "cr": "13",
+        "main": {
+          "cr": "13",
+          "eac": "26",
+          "kac": "27",
+          "fort": "+12",
+          "ref": "+12",
+          "will": "+16",
+          "hit points": "190",
+          "ability dc": "21",
+          "base spell dc": "19",
+          "ability score modifiers": "+8, +6, +4",
+          "special abilities": "3",
+          "master skills": "+28 (2)",
+          "goood skills": "+23 (1)"
+        },
+        "attack": {
+          "cr": "13",
+          "high": "+22",
+          "low": "+20",
+          "energy": "2d10+13",
+          "kinetic": "4d6+13",
+          "standard": "6d4+13+str",
+          "three attacks": "3d6+13+str",
+          "four attacks": "3d4+13+str"
+        }
+      },
+      {
+        "cr": "14",
+        "main": {
+          "cr": "14",
+          "eac": "27",
+          "kac": "28",
+          "fort": "+12",
+          "ref": "+12",
+          "will": "+17",
+          "hit points": "215",
+          "ability dc": "22",
+          "base spell dc": "19",
+          "ability score modifiers": "+8, +6, +4",
+          "special abilities": "3",
+          "master skills": "+30 (2)",
+          "goood skills": "+25 (1)"
+        },
+        "attack": {
+          "cr": "14",
+          "high": "+23",
+          "low": "+21",
+          "energy": "5d4+14",
+          "kinetic": "4d8+14",
+          "standard": "6d6+14+str",
+          "three attacks": "4d6+14+str",
+          "four attacks": "3d6+14+str"
+        }
+      },
+      {
+        "cr": "15",
+        "main": {
+          "cr": "15",
+          "eac": "28",
+          "kac": "29",
+          "fort": "+13",
+          "ref": "+13",
+          "will": "+18",
+          "hit points": "235",
+          "ability dc": "23",
+          "base spell dc": "20",
+          "ability score modifiers": "+9, +7, +5",
+          "special abilities": "3",
+          "master skills": "+31 (2)",
+          "goood skills": "+26 (1)"
+        },
+        "attack": {
+          "cr": "15",
+          "high": "+24",
+          "low": "+22",
+          "energy": "4d6+15",
+          "kinetic": "6d6+15",
+          "standard": "5d8+15+str",
+          "three attacks": "6d4+15+str",
+          "four attacks": "2d10+15+str"
+        }
+      },
+      {
+        "cr": "16",
+        "main": {
+          "cr": "16",
+          "eac": "29",
+          "kac": "30",
+          "fort": "+14",
+          "ref": "+14",
+          "will": "+19",
+          "hit points": "255",
+          "ability dc": "24",
+          "base spell dc": "20",
+          "ability score modifiers": "+10, +7, +5",
+          "special abilities": "3",
+          "master skills": "+33 (2)",
+          "goood skills": "+28 (1)"
+        },
+        "attack": {
+          "cr": "16",
+          "high": "+26",
+          "low": "+24",
+          "energy": "6d4+16",
+          "kinetic": "5d8+16",
+          "standard": "6d8+16+str",
+          "three attacks": "4d8+16+str",
+          "four attacks": "3d8+16+str"
+        }
+      },
+      {
+        "cr": "17",
+        "main": {
+          "cr": "17",
+          "eac": "30",
+          "kac": "31",
+          "fort": "+15",
+          "ref": "+15",
+          "will": "+20",
+          "hit points": "285",
+          "ability dc": "24",
+          "base spell dc": "20",
+          "ability score modifiers": "+11, +8, +5",
+          "special abilities": "3",
+          "master skills": "+34 (2)",
+          "goood skills": "+29 (1)"
+        },
+        "attack": {
+          "cr": "17",
+          "high": "+27",
+          "low": "+25",
+          "energy": "4d8+17",
+          "kinetic": "4d12+17",
+          "standard": "8d6+17+str",
+          "three attacks": "3d12+17+str",
+          "four attacks": "6d4+17+str"
+        }
+      },
+      {
+        "cr": "18",
+        "main": {
+          "cr": "18",
+          "eac": "31",
+          "kac": "32",
+          "fort": "+16",
+          "ref": "+16",
+          "will": "+20",
+          "hit points": "320",
+          "ability dc": "25",
+          "base spell dc": "21",
+          "ability score modifiers": "+11, +8, +6",
+          "special abilities": "4",
+          "master skills": "+36 (2)",
+          "goood skills": "+31 (1)"
+        },
+        "attack": {
+          "cr": "18",
+          "high": "+28",
+          "low": "+26",
+          "energy": "3d12+18",
+          "kinetic": "8d6+18",
+          "standard": "8d8+18+str",
+          "three attacks": "5d8+18+str",
+          "four attacks": "4d8+18+str"
+        }
+      },
+      {
+        "cr": "19",
+        "main": {
+          "cr": "19",
+          "eac": "32",
+          "kac": "33",
+          "fort": "+16",
+          "ref": "+16",
+          "will": "+21",
+          "hit points": "350",
+          "ability dc": "26",
+          "base spell dc": "22",
+          "ability score modifiers": "+11, +9, +6",
+          "special abilities": "4",
+          "master skills": "+37 (2)",
+          "goood skills": "+32 (1)"
+        },
+        "attack": {
+          "cr": "19",
+          "high": "+29",
+          "low": "+27",
+          "energy": "5d8+19",
+          "kinetic": "6d10+19",
+          "standard": "9d8+19+str",
+          "three attacks": "6d8+19+str",
+          "four attacks": "3d12+19+str"
+        }
+      },
+      {
+        "cr": "20",
+        "main": {
+          "cr": "20",
+          "eac": "34",
+          "kac": "35",
+          "fort": "+17",
+          "ref": "+17",
+          "will": "+22",
+          "hit points": "395",
+          "ability dc": "27",
+          "base spell dc": "23",
+          "ability score modifiers": "+12, +9, +6",
+          "special abilities": "4",
+          "master skills": "+39 (2)",
+          "goood skills": "+34 (1)"
+        },
+        "attack": {
+          "cr": "20",
+          "high": "+30",
+          "low": "+28",
+          "energy": "4d12+20",
+          "kinetic": "8d8+20",
+          "standard": "13d6+20+str",
+          "three attacks": "9d6+20+str",
+          "four attacks": "5d8+20+str"
+        }
+      },
+      {
+        "cr": "21",
+        "main": {
+          "cr": "21",
+          "eac": "35",
+          "kac": "36",
+          "fort": "+18",
+          "ref": "+18",
+          "will": "+23",
+          "hit points": "425",
+          "ability dc": "27",
+          "base spell dc": "23",
+          "ability score modifiers": "+12, +10, +7",
+          "special abilities": "4",
+          "master skills": "+40 (2)",
+          "goood skills": "+35 (1)"
+        },
+        "attack": {
+          "cr": "21",
+          "high": "+31",
+          "low": "+29",
+          "energy": "8d6+21",
+          "kinetic": "6d12+21",
+          "standard": "15d6+21+str",
+          "three attacks": "10d6+21+str",
+          "four attacks": "4d12+21+str"
+        }
+      },
+      {
+        "cr": "22",
+        "main": {
+          "cr": "22",
+          "eac": "37",
+          "kac": "38",
+          "fort": "+18",
+          "ref": "+18",
+          "will": "+23",
+          "hit points": "470",
+          "ability dc": "28",
+          "base spell dc": "24",
+          "ability score modifiers": "+13, +10, +7",
+          "special abilities": "4",
+          "master skills": "+42 (2)",
+          "goood skills": "+37 (1)"
+        },
+        "attack": {
+          "cr": "22",
+          "high": "+32",
+          "low": "+30",
+          "energy": "6d10+22",
+          "kinetic": "8d10+22",
+          "standard": "17d6+22+str",
+          "three attacks": "6d12+22+str",
+          "four attacks": "8d6+22+str"
+        }
+      },
+      {
+        "cr": "23",
+        "main": {
+          "cr": "23",
+          "eac": "38",
+          "kac": "39",
+          "fort": "+19",
+          "ref": "+19",
+          "will": "+24",
+          "hit points": "510",
+          "ability dc": "29",
+          "base spell dc": "25",
+          "ability score modifiers": "+13, +11, +7",
+          "special abilities": "4",
+          "master skills": "+43 (2)",
+          "goood skills": "+38 (1)"
+        },
+        "attack": {
+          "cr": "23",
+          "high": "+33",
+          "low": "+31",
+          "energy": "8d8+23",
+          "kinetic": "13d6+23",
+          "standard": "12d10+23+str",
+          "three attacks": "8d10+23+str",
+          "four attacks": "6d10+23+str"
+        }
+      },
+      {
+        "cr": "24",
+        "main": {
+          "cr": "24",
+          "eac": "40",
+          "kac": "41",
+          "fort": "+20",
+          "ref": "+20",
+          "will": "+25",
+          "hit points": "550",
+          "ability dc": "30",
+          "base spell dc": "26",
+          "ability score modifiers": "+15, +11, +8",
+          "special abilities": "4",
+          "master skills": "+45 (2)",
+          "goood skills": "+40 (1)"
+        },
+        "attack": {
+          "cr": "24",
+          "high": "+35",
+          "low": "+33",
+          "energy": "9d8+24",
+          "kinetic": "15d6+24",
+          "standard": "21d6+24+str",
+          "three attacks": "9d10+24+str",
+          "four attacks": "8d8+24+str"
+        }
+      },
+      {
+        "cr": "25",
+        "main": {
+          "cr": "25",
+          "eac": "41",
+          "kac": "42",
+          "fort": "+21",
+          "ref": "+21",
+          "will": "+26",
+          "hit points": "600",
+          "ability dc": "30",
+          "base spell dc": "26",
+          "ability score modifiers": "+15, +12, +8",
+          "special abilities": "4",
+          "master skills": "+46 (2)",
+          "goood skills": "+41 (1)"
+        },
+        "attack": {
+          "cr": "25",
+          "high": "+36",
+          "low": "+34",
+          "energy": "8d10+25",
+          "kinetic": "16d6+25",
+          "standard": "12d12+25+str",
+          "three attacks": "15d6+25+str",
+          "four attacks": "6d12+25+str"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "name": "basic computer",
+    "bonus_raw": {
+      "text": "+0"
+    },
+    "nodes": "0",
+    "pcu": "0",
+    "cost": "0"
+  },
+  {
+    "name": "mk 1 mononode",
+    "bonus_raw": {
+      "text": "+1"
+    },
+    "nodes": "1",
+    "pcu": "10",
+    "cost": "1"
+  },
+  {
+    "name": "mk 1 duonode",
+    "bonus_raw": {
+      "text": "+1/+1"
+    },
+    "nodes": "2",
+    "pcu": "10",
+    "cost": "2"
+  },
+  {
+    "name": "mk 1 trinode",
+    "bonus_raw": {
+      "text": "+1/+1/+1"
+    },
+    "nodes": "3",
+    "pcu": "10",
+    "cost": "3"
+  },
+  {
+    "name": "mk 1 tetranode",
+    "bonus_raw": {
+      "text": "+1/+1/+1/+1"
+    },
+    "nodes": "4",
+    "pcu": "10",
+    "cost": "4"
+  },
+  {
+    "name": "mk 2 mononode",
+    "bonus_raw": {
+      "text": "+2"
+    },
+    "nodes": "1",
+    "pcu": "15",
+    "cost": "4"
+  },
+  {
+    "name": "mk 2 duonode",
+    "bonus_raw": {
+      "text": "+2/+2"
+    },
+    "nodes": "2",
+    "pcu": "15",
+    "cost": "8"
+  },
+  {
+    "name": "mk 2 trinode",
+    "bonus_raw": {
+      "text": "+2/+2/+2"
+    },
+    "nodes": "3",
+    "pcu": "15",
+    "cost": "12"
+  },
+  {
+    "name": "mk 2 tetranode",
+    "bonus_raw": {
+      "text": "+2/+2/+2/+2"
+    },
+    "nodes": "4",
+    "pcu": "15",
+    "cost": "16"
+  },
+  {
+    "name": "mk 3 mononode",
+    "bonus_raw": {
+      "text": "+3"
+    },
+    "nodes": "1",
+    "pcu": "20",
+    "cost": "9"
+  },
+  {
+    "name": "mk 3 duonode",
+    "bonus_raw": {
+      "text": "+3/+3"
+    },
+    "nodes": "2",
+    "pcu": "20",
+    "cost": "18"
+  },
+  {
+    "name": "mk 3 trinode",
+    "bonus_raw": {
+      "text": "+3/+3/+3"
+    },
+    "nodes": "3",
+    "pcu": "20",
+    "cost": "27"
+  },
+  {
+    "name": "mk 3 tetranode",
+    "bonus_raw": {
+      "text": "+3/+3/+3/+3"
+    },
+    "nodes": "4",
+    "pcu": "20",
+    "cost": "36"
+  },
+  {
+    "name": "mk 4 mononode",
+    "bonus_raw": {
+      "text": "+4"
+    },
+    "nodes": "1",
+    "pcu": "25",
+    "cost": "16"
+  },
+  {
+    "name": "mk 4 duonode",
+    "bonus_raw": {
+      "text": "+4/+4"
+    },
+    "nodes": "2",
+    "pcu": "25",
+    "cost": "32"
+  },
+  {
+    "name": "mk 4 trinode",
+    "bonus_raw": {
+      "text": "+4/+4/+4"
+    },
+    "nodes": "3",
+    "pcu": "25",
+    "cost": "48"
+  },
+  {
+    "name": "mk 5 mononode",
+    "bonus_raw": {
+      "text": "+5"
+    },
+    "nodes": "1",
+    "pcu": "30",
+    "cost": "25"
+  },
+  {
+    "name": "mk 5 duonode",
+    "bonus_raw": {
+      "text": "+5/+5"
+    },
+    "nodes": "2",
+    "pcu": "30",
+    "cost": "50"
+  },
+  {
+    "name": "mk 5 trinode",
+    "bonus_raw": {
+      "text": "+5/+5/+5"
+    },
+    "nodes": "3",
+    "pcu": "30",
+    "cost": "75"
+  },
+  {
+    "name": "mk 6 mononode",
+    "bonus_raw": {
+      "text": "+6"
+    },
+    "nodes": "1",
+    "pcu": "35",
+    "cost": "36"
+  },
+  {
+    "name": "mk 6 duonode",
+    "bonus_raw": {
+      "text": "+6/+6"
+    },
+    "nodes": "2",
+    "pcu": "35",
+    "cost": "72"
+  },
+  {
+    "name": "mk 7 mononode",
+    "bonus_raw": {
+      "text": "+7"
+    },
+    "nodes": "1",
+    "pcu": "40",
+    "cost": "49"
+  },
+  {
+    "name": "mk 7 duonode",
+    "bonus_raw": {
+      "text": "+7/+7"
+    },
+    "nodes": "2",
+    "pcu": "40",
+    "cost": "98"
+  },
+  {
+    "name": "mk 8 mononode",
+    "bonus_raw": {
+      "text": "+8"
+    },
+    "nodes": "1",
+    "pcu": "45",
+    "cost": "64"
+  },
+  {
+    "name": "mk 8 duonode",
+    "bonus_raw": {
+      "text": "+8/+8"
+    },
+    "nodes": "2",
+    "pcu": "45",
+    "cost": "128"
+  },
+  {
+    "name": "mk 9 mononode",
+    "bonus_raw": {
+      "text": "+9"
+    },
+    "nodes": "1",
+    "pcu": "50",
+    "cost": "81"
+  },
+  {
+    "name": "mk 9 duonode",
+    "bonus_raw": {
+      "text": "+9/+9"
+    },
+    "nodes": "2",
+    "pcu": "50",
+    "cost": "162"
+  },
+  {
+    "name": "mk 10 mononode",
+    "bonus_raw": {
+      "text": "+10"
+    },
+    "nodes": "1",
+    "pcu": "55",
+    "cost": "100"
+  },
+  {
+    "name": "mk 10 duonode",
+    "bonus_raw": {
+      "text": "+10/+10"
+    },
+    "nodes": "2",
+    "pcu": "55",
+    "cost": "200"
+  }
+]

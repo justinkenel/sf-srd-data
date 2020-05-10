@@ -1,0 +1,163 @@
+[
+  {
+    "tier": "1/4",
+    "bp": "25",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "1/3",
+    "bp": "30",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "1/2",
+    "bp": "40",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "1",
+    "bp": "55",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "2",
+    "bp": "75",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "3",
+    "bp": "95",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "4",
+    "bp": "115",
+    "special": [
+      "hp increase"
+    ]
+  },
+  {
+    "tier": "5",
+    "bp": "135",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "6",
+    "bp": "155",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "7",
+    "bp": "180",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "8",
+    "bp": "205",
+    "special": [
+      "hp increase"
+    ]
+  },
+  {
+    "tier": "9",
+    "bp": "230",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "10",
+    "bp": "270",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "11",
+    "bp": "310",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "12",
+    "bp": "350",
+    "special": [
+      "hp increase"
+    ]
+  },
+  {
+    "tier": "13",
+    "bp": "400",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "14",
+    "bp": "450",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "15",
+    "bp": "500",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "16",
+    "bp": "600",
+    "special": [
+      "hp increase"
+    ]
+  },
+  {
+    "tier": "17",
+    "bp": "700",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "18",
+    "bp": "800",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "19",
+    "bp": "900",
+    "special": [
+      "—"
+    ]
+  },
+  {
+    "tier": "20",
+    "bp": "1000",
+    "special": [
+      "hp increase"
+    ]
+  }
+]
